@@ -1,4 +1,4 @@
 # status-five.github.io
 personal website
 
-test
+[ [Research](/index.md) ][ [Curriculum Vitae](/cv.md) ][ [Github](https://github.com/status-five) ][ [Contact](/contact.md) ]
