@@ -61,3 +61,10 @@
 > Luciano, Joanne, Grant Cumming, Eva Kahana, Tara French, and David Molik. “Health Web Science: Health Science, the Web and Web Observatories.” Proceedings of INFORMS HEALTHCARE – 2015. http://meetings2.informs.org/wordpress/healthcare2015/.
 >
 > ## ACHIEVEMENTS
+>
+> Undergraduate Thesis, titled: “Oat: Comparing Ontologies and Text” Focused on Semantic Web Technologies and Distance Measures, Fall 2012
+>
+> AWS Grants, Received 10000 in AWS Could Credits for Research for exploring alternative bioinformatics research systems in the Amazon Cloud for 2016 and received 30000 in AWS Could Credits for Research for exploring alternative bioinformatics research systems in the Amazon Cloud for as co-investigator in 2017
+>
+> Eagle Scout, Achieved the Rank of Eagle in the Boy Scouts of America
+
