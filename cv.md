@@ -3,15 +3,25 @@
 [ [Research](/index.md) ][ **[Curriculum Vitae](/cv.md)** ][ [Github](https://github.com/status-five) ][ [Contact](/contact.md) ]
 
 ---
-# David C. Molik
-## _Computational Biology PhD Student, Univerity of Notre Dame_
-<br>
-## EDUCATION<br><br>
-University of Notre Dame, Notre Dame, IN<br>
-Phd. Integrated BioMedical Sciences<br>
-<br>
-Aug/2016 –<br><br>
-Rensselaer Polytechnic Institute, Troy, NY<br>
-BS. Information Technology and Web Science<br>
-Concentration in Communications<br>
-Aug/2009 – Dec/2012<br><br>
+> # David C. Molik
+> _Computational Biology PhD Student, Univerity of Notre Dame_
+>
+> ## EDUCATION
+>
+> **University of Notre Dame, Notre Dame, IN**  
+> Phd. Integrated BioMedical Sciences  
+> 
+> Aug/2016 –
+>
+> **Rensselaer Polytechnic Institute, Troy, NY**  
+> BS. Information Technology and Web Science  
+> Concentration in Communications  
+> Aug/2009 – Dec/2012  
+> 
+> ## EMPLOYMENT
+> 
+> ## ARTICLES
+> 
+> ## ABSTRACTS - TALKS
+> 
+> ## ACHIEVEMENTS
