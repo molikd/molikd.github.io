@@ -4,9 +4,10 @@
 
 ---
 # David C. Molik
-## _Computational Biology PhD Student, Univerity of Notre Dame_
+ _Computational Biology PhD Student, Univerity of Notre Dame_
+<br><br>
+## EDUCATION
 <br>
-## EDUCATION<br><br>
 University of Notre Dame, Notre Dame, IN<br>
 Phd. Integrated BioMedical Sciences<br>
 <br>
