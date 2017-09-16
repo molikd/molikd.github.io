@@ -4,18 +4,15 @@
 
 ---
 
-![Taken at CSHL BSR 2014][assets/hipster.jpg]
+![Taken at CSHL BSR 2014](assets/hipster.jpg)
 
-David Molik 
-Integrated Biomedical Sciences Program PhD
-
-Department of Biology
-Galvin Building
-University of Notre Dame
-Notre Dame, IN 46556
-
-dmolik@nd.edu
-
-[Pfrender Lab](https://www3.nd.edu/~mpfrende/index.html) - Biological Sciences ND
+David Molik <br>
+Integrated Biomedical Sciences Program PhD <br><br>
+Department of Biology <br>
+Galvin Building <br>
+University of Notre Dame <br>
+Notre Dame, IN 46556 <br><br>
+dmolik@nd.edu <br><br>
+[Pfrender Lab](https://www3.nd.edu/~mpfrende/index.html) - Biological Sciences ND<br>
 [Emrich Lab](https://www3.nd.edu/~semrich/) - Computer Science and Engineering ND
 
