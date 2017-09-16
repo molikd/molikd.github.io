@@ -4,10 +4,8 @@
 
 ---
 
-![My hometown of Buffalo NY](assets/buffalo.png) 
-
-`My Hometown of Buffalo, NY`
-
+![My hometown of Buffalo NY](assets/buffalo.png)<br>
+`My Hometown of Buffalo, NY` <br><br>
 David Molik <br>
 Integrated Biomedical Sciences Program PhD <br><br>
 Department of Biology <br>
@@ -16,8 +14,6 @@ University of Notre Dame <br>
 Notre Dame, IN 46556 <br><br>
 dmolik@nd.edu <br><br>
 [Pfrender Lab](https://www3.nd.edu/~mpfrende/index.html) - Biological Sciences ND<br>
-[Emrich Lab](https://www3.nd.edu/~semrich/) - Computer Science and Engineering ND
-
-![Taken at CSHL BSR 2014](assets/hipster.jpg)
-
+[Emrich Lab](https://www3.nd.edu/~semrich/) - Computer Science and Engineering ND<br><br>
+![Taken at CSHL BSR 2014](assets/hipster.jpg)<br>
 `Me in the Binformatics Shared Resource at CSHL`
