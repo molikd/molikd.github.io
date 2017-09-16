@@ -20,7 +20,7 @@
 > 
 > ## EMPLOYMENT  
 > 
-> **Research Assistant, University of Notre Dame** – Notre Dame, IN  
+> **Research Assistant in Pfrender and Emrich labs, University of Notre Dame** – Notre Dame, IN  
 > Aug/2016 –
 >  
 > **Scientific Informatics Developer, Cold Spring Harbor Labratory** – Cold Spring Harbor,  NY  
