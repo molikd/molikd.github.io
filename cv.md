@@ -17,3 +17,11 @@
 > BS. Information Technology and Web Science  
 > Concentration in Communications  
 > Aug/2009 – Dec/2012  
+
+## EMPLOYMENT
+
+## ARTICLES
+
+## ABSTRACTS - TALKS
+
+## ACHIEVEMENTS
