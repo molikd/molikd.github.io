@@ -16,3 +16,4 @@ dmolik@nd.edu <br><br>
 [Pfrender Lab](https://www3.nd.edu/~mpfrende/index.html) - Biological Sciences ND<br>
 [Emrich Lab](https://www3.nd.edu/~semrich/) - Computer Science and Engineering ND
 
+![My hometown of Buffalo NY](assets/buffalo.png)
