@@ -10,7 +10,8 @@
 >
 > **University of Notre Dame, Notre Dame, IN**  
 > Phd. Integrated BioMedical Sciences  
-> 
+> Advisor: [Michael Pfrender](https://www3.nd.edu/~mpfrende/)  
+> Advisor: [Scott Emrich](https://www3.nd.edu/~semrich/)  
 > Aug/2016 –
 >
 > **Rensselaer Polytechnic Institute, Troy, NY**  
@@ -50,15 +51,15 @@
 >
 > ## ABSTRACTS - TALKS
 >
-> Molik, David, Yu-Jui Ho, Ying Jin, and Molly Hammell. "Deployment of a Bioinformatics Analytics Platform in the Cloud." Proceedings of The Biological Data Science, 2016. https://meetings.cshl.edu/abstracts.aspx?meet=DATA&year=16.
+> **[poster]** Molik, David, Yu-Jui Ho, Ying Jin, and Molly Hammell. "Deployment of a Bioinformatics Analytics Platform in the Cloud." Proceedings of The Biological Data Science, 2016. https://meetings.cshl.edu/abstracts.aspx?meet=DATA&year=16.
 > 
-> Molik, David. “Implementing Best Practices in Bioinformatics, Issues of Data And Computational Tool Access That Will Affect Data Science in the Near Future.” In DATA ANALYTICS ACROSS DISCIPLINES: ACADEMIC ADVANCEMENT AND BUSINESS COMPETITIVENESS. Niagara Falls: National Professional Science Master’s Association, 2016. http://www.dataanalyticsacrossdisciplines.org/.
+> **[talk]** Molik, David. “Implementing Best Practices in Bioinformatics, Issues of Data And Computational Tool Access That Will Affect Data Science in the Near Future.” In DATA ANALYTICS ACROSS DISCIPLINES: ACADEMIC ADVANCEMENT AND BUSINESS COMPETITIVENESS. Niagara Falls: National Professional Science Master’s Association, 2016. http://www.dataanalyticsacrossdisciplines.org/.
 >
-> Molik, David, Ying Jin, and Molly Hammell. “EDGY—Export of Data from Galaxy to Yabi, Automated Workflow Transfer to Command Line Tool” Proceedings of The Biology of Genomes, 2016. https://meetings.cshl.edu/abstracts.aspx?meet=genome&year=16..
+>  **[poster]** Molik, David, Ying Jin, and Molly Hammell. “EDGY—Export of Data from Galaxy to Yabi, Automated Workflow Transfer to Command Line Tool” Proceedings of The Biology of Genomes, 2016. https://meetings.cshl.edu/abstracts.aspx?meet=genome&year=16..
 >
-> Molik, David, Ying Jin, and Molly Hammell. “Automated Transfer of Workflows from Galaxy to Yabi and Command Line Tools.” In Proceedings of GENOME INFORMATICS 2015, 151. Cold Spring Harbor, 2015. https://meetings.cshl.edu/abstracts.aspx?meet=info&year=15.
+>  **[poster]** Molik, David, Ying Jin, and Molly Hammell. “Automated Transfer of Workflows from Galaxy to Yabi and Command Line Tools.” In Proceedings of GENOME INFORMATICS 2015, 151. Cold Spring Harbor, 2015. https://meetings.cshl.edu/abstracts.aspx?meet=info&year=15.
 > 
-> Luciano, Joanne, Grant Cumming, Eva Kahana, Tara French, and David Molik. “Health Web Science: Health Science, the Web and Web Observatories.” Proceedings of INFORMS HEALTHCARE – 2015. http://meetings2.informs.org/wordpress/healthcare2015/.
+> **[talk]** Luciano, Joanne, Grant Cumming, Eva Kahana, Tara French, and David Molik. “Health Web Science: Health Science, the Web and Web Observatories.” Proceedings of INFORMS HEALTHCARE – 2015. http://meetings2.informs.org/wordpress/healthcare2015/.
 >
 > ## ACHIEVEMENTS
 >
