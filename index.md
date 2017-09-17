@@ -4,6 +4,8 @@
 
 ---
 
+I research computational methods in ecological data, specifically Metagenetic and Metabarcoding, associating community structure with the environment, as well as looking rare and pathogenic species in large amounts of data.  
+
 ![Env heatmap](assets/heatmap.png)<br>
 `environmental variables influencing sample to sample simularity`
 
