@@ -13,7 +13,8 @@ Galvin Building <br>
 University of Notre Dame <br>
 Notre Dame, IN 46556 <br><br>
 dmolik@nd.edu <br><br>
-[ResearchGate Profile](https://www.researchgate.net/profile/David_Molik)<br><br>
+[ResearchGate Profile](https://www.researchgate.net/profile/David_Molik)<br>
+[Google Scholar Profile](https://scholar.google.com/citations?user=BEl9n4MAAAAJ)<br><br>
 [Pfrender Lab](https://www3.nd.edu/~mpfrende/index.html) - Biological Sciences ND<br>
 [Emrich Lab](https://www3.nd.edu/~semrich/) - Computer Science and Engineering ND<br><br>
 ![Taken at CSHL BSR 2014](assets/hipster.jpg)<br>
