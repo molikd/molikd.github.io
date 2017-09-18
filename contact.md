@@ -19,3 +19,8 @@ dmolik@nd.edu <br><br>
 [Emrich Lab](https://www3.nd.edu/~semrich/) - Computer Science and Engineering ND<br><br>
 ![Taken at CSHL BSR 2014](assets/hipster.jpg)<br>
 `Me in the Binformatics Shared Resource at CSHL`
+
+
+<meta name="keywords" content="David Molik, Molik, Email, Contact Info, Contact"/>
+<meta name="description" content="David Molik's Contact Info"/>
+<meta name="subject" content="david.molik.co : A Personal Webpage">
