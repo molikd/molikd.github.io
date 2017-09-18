@@ -13,3 +13,7 @@ K-mer comparison methods that estimate distances between gnomic data can be used
 
 ![All pairwise](assets/dendogram.png)<br>
 `12634 18S metagenomic datasets compared to eachother, colored by type of source, ie:soil vs. aquatic`
+
+<meta name="keywords" content="David Molik, Molik, Metagenetic, Metabarcoding"/>
+<meta name="description" content="David Molik's research interests: Expploring Metagenetic and Metabarcoding analysis"/>
+<meta name="subject" content="david.molik.co : A Personal Webpage">
