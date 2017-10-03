@@ -50,7 +50,7 @@
 > Molik, David, and Michelle Sharer. “The Use of Recursive Bisection in the Mapping of Sample New York State Electoral Districts.” Proceedings of the 6th International Conference on Electronic Governance, 2012, 520–21. [doi:10.1145/2463728.2463844](https://doi.org/10.1145/2463728.2463844).
 >
 > ## ABSTRACTS - TALKS
-> *Only Talks and Posters  in Which I am the First or Last Author*
+> *Only Talks and Posters in which I am the First or Last Author*
 >
 > **[Talk]** Molik, David, Michael Pfrender, Scott Emrich. “K-mer comparison methods in metagenomics, applications at the community level.” In Proceedings of Genome Informatics 2017. Cold Spring Harbor, 2017. https://meetings.cshl.edu/abstracts.aspx?meet=INFO&year=17 
 >
