@@ -21,7 +21,7 @@
 > 
 > ## EMPLOYMENT  
 > 
-> **Research Assistant in Pfrender and Emrich labs, University of Notre Dame** – Notre Dame, IN  
+> **Graduate Research Assistant in Emrich lab, University of Notre Dame** – Notre Dame, IN  
 > Aug/2016 –
 >  
 > **Scientific Informatics Developer, Cold Spring Harbor Labratory** – Cold Spring Harbor,  NY  
@@ -52,7 +52,7 @@
 > ## ABSTRACTS - TALKS
 > *Only Talks and Posters in which I am the First or Last Author*
 >
-> **[Talk]** Molik, David, Michael Pfrender, Scott Emrich. “K-mer comparison methods in metagenomics, applications at the community level.” In Proceedings of Genome Informatics 2017. Cold Spring Harbor, 2017. https://meetings.cshl.edu/abstracts.aspx?meet=INFO&year=17 
+> **[talk]** Molik, David, Michael Pfrender, Scott Emrich. “K-mer comparison methods in metagenomics, applications at the community level.” In Proceedings of Genome Informatics 2017. Cold Spring Harbor, 2017. https://meetings.cshl.edu/abstracts.aspx?meet=INFO&year=17 
 >
 > **[poster]** Molik, David, Yu-Jui Ho, Ying Jin, and Molly Hammell. "Deployment of a Bioinformatics Analytics Platform in the Cloud." Proceedings of The Biological Data Science, 2016. https://meetings.cshl.edu/abstracts.aspx?meet=DATA&year=16.
 > 
@@ -69,6 +69,8 @@
 > Undergraduate Thesis, titled: “Oat: Comparing Ontologies and Text” Focused on Semantic Web Technologies and Distance Measures, Fall 2012
 >
 > AWS Grants, Received 10000 in AWS Could Credits for Research for exploring alternative bioinformatics research systems in the Amazon Cloud for 2016 and received 30000 in AWS Could Credits for Research for exploring alternative bioinformatics research systems in the Amazon Cloud for as co-investigator in 2017
+>
+>Awarded "Rapid Exposure to Advanced Computational Training" (REACT) Program Grant, received $1500 in funding for attendance to Computational Short Course - Summer 2017
 >
 > Eagle Scout, Achieved the Rank of Eagle in the Boy Scouts of America
 
