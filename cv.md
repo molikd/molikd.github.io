@@ -41,6 +41,8 @@
 >  
 > ## ARTICLES
 >
+> Molik, David C., Michael Pfrender, Scott Emrich. "Methods in Description and Validation of Local Metagenetic Microbial Communities" Preprint: bioRxiv, 2017, [doi:10.1101/198614](https://doi.org/10.1101/198614).
+>
 > Cumming, Grant P., Tara French, Jamie Hogg, Douglas McKendrick, Heidi Gilstad, David Molik, and Joanne S. Luciano. "Trust and Provenance in Communication to eHealth Consumers." In The Digitization of Healthcare, pp. 189-203. Palgrave Macmillan, London, 2017. [doi:10.1057/978-1-349-95173-4_11](https://doi.org/10.1057/978-1-349-95173-4_11).
 >
 > Cumming, Grant P., Douglas McKendrick, Jamie Hogg, Tara French, Eva Kahana, David Molik, and Joanne S. Luciano. "Formulating eHealth Utilizing an Ecological Understanding." In The Digitization of Healthcare, pp. 81-98. Palgrave Macmillan, London, 2017. [doi:10.1057/978-1-349-95173-4_5](https://doi.org/10.1057/978-1-349-95173-4_5).
