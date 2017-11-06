@@ -72,7 +72,9 @@
 >
 > AWS Grants, Received 10000 in AWS Could Credits for Research for exploring alternative bioinformatics research systems in the Amazon Cloud for 2016 and received 30000 in AWS Could Credits for Research for exploring alternative bioinformatics research systems in the Amazon Cloud for as co-investigator in 2017
 >
->Awarded "Rapid Exposure to Advanced Computational Training" (REACT) Program Grant, received $1500 in funding for attendance to Computational Short Course - Summer 2017
+> Awarded "Rapid Exposure to Advanced Computational Training" (REACT) Program Grant, received $1500 in funding for attendance to Computational Short Course - Summer 2017
+>
+> Awarded “Graduate Student Union Conference Presentation Grant” (GSU CPG) to attend CSHL Genome Informatics 2017
 >
 > Eagle Scout, Achieved the Rank of Eagle in the Boy Scouts of America
 
