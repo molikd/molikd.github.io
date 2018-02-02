@@ -40,6 +40,8 @@
 > May/2010 – Aug/2010  
 >  
 > ## ARTICLES
+> 
+> Ho, Yu-Jui , Naishitha Anaparthy, David Molik, Toby Aicher, Ami Patel, James Hicks, Molly G. Hammell. "SAKE (Single-cell RNA-Seq Analysis and Klustering Evaluation) Identifies Markers of Resistance to Targeted BRAF Inhibitors in Melanoma Cell Populations" Preprint: bioRxiv, 2017, [doi:10.1101/239319](https://doi.org/10.1101/239319).
 >
 > Molik, David C., Michael Pfrender, Scott Emrich. "Methods in Description and Validation of Local Metagenetic Microbial Communities" Preprint: bioRxiv, 2017, [doi:10.1101/198614](https://doi.org/10.1101/198614).
 >
