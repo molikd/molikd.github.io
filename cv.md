@@ -21,7 +21,7 @@
 > ## EMPLOYMENT  
 > 
 > **Graduate Research Assistant in Emrich lab, University of Notre Dame** – Notre Dame, IN  
-> Aug/2016 –
+> Aug/2016 – Dec/2017
 >  
 > **Scientific Informatics Developer, Cold Spring Harbor Labratory** – Cold Spring Harbor,  NY  
 > Dec/2014 – Aug/2016  
