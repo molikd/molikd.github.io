@@ -25,7 +25,10 @@ dmolik@nd.edu <br><br>
 <meta name="subject" content="david.molik.co : A Personal Webpage">
 <style>body {background-color: #cee4ae;}
 img { border-width: 1px; border-color: #A9A9A9;}
-a:link { color: 	#364563; }
-a:visited { color: #364563; }
-a:hover { color: #364563; }
-a:active { color: #003399; }</style>
+a:link { color: 	#264073; }
+a:visited { color: #264073; }
+a:hover { color: #264073; }
+a:active { color: #003399; }
+hr {	background: #4d4d4d; }
+blockquote { border-left:  #4d4d4d; }
+</style>
