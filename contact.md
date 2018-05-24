@@ -23,12 +23,14 @@ dmolik@nd.edu <br><br>
 <meta name="keywords" content="David Molik, Molik, Email, Contact Info, Contact"/>
 <meta name="description" content="David Molik's Contact Info"/>
 <meta name="subject" content="david.molik.co : A Personal Webpage">
-<style>body {background-color: #cee4ae;}
+<style>body {background-color: #cee4ae; color: #4d4d4d;}
 img { border-width: 1px; border-color: #A9A9A9;}
 a:link { color: 	#264073; }
 a:visited { color: #264073; }
 a:hover { color: #264073; }
 a:active { color: #003399; }
-hr {	background: #4d4d4d; }
-blockquote { border-left:  #4d4d4d; }
+hr {	background: #595959; }
+blockquote { border-left:  #595959; }
+code { color: #4d4d4d; }
+p { color: #4d4d4d; } 
 </style>
