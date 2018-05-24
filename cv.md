@@ -89,7 +89,7 @@ a:visited { color: #264073; }
 a:hover { color: #264073; }
 a:active { color: #003399; }
 hr {	background: #595959; }
-blockquote { border-left:  #595959; }
+blockquote { border-left: 1px solid #595959; }
 code { color: #4d4d4d; }
 p { color: #4d4d4d; } 
 </style>
