@@ -26,5 +26,6 @@ a:active { color: #003399; }
 hr {	background: #595959; }
 blockquote { border-left:  #595959; }
 code { color: #4d4d4d; }
+p { color: #4d4d4d; } 
 </style>
 
