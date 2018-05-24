@@ -17,3 +17,4 @@ K-mer comparison methods that estimate distances between gnomic data can be used
 <meta name="keywords" content="David Molik, Molik, Metagenetic, Metabarcoding"/>
 <meta name="description" content="David Molik's research interests: Expploring Metagenetic and Metabarcoding analysis"/>
 <meta name="subject" content="david.molik.co : A Personal Webpage">
+<style>body {background-color: #cee4ae;}</style>
