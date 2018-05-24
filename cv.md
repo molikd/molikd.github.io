@@ -82,3 +82,4 @@
 <meta name="keywords" content="David Molik, Molik, Curriculum Vitae, CV, Resume"/>
 <meta name="description" content="David Molik's CV, information on past employment"/>
 <meta name="subject" content="david.molik.co : A Personal Webpage">
+<style>body {background-color: #cee4ae;}</style>
