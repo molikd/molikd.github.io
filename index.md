@@ -4,10 +4,14 @@
 
 ---
 
-I research computational methods in ecological data, specifically Metagenetic and Metabarcoding, associating community structure with the environment, as well as looking rare and pathogenic species in large amounts of data.  
+I'm broadly interested in how environmental stress effects microbial communities. More specifically, I'm interested in weather the rate of transportation into a new area or the rate of evolution of species already within that area is faster, put in slightly different terms, are all microbes everywhere? or are microbes more specific, and the barriers to transportation too high. This central theme lends itself to other questions: What new computational tools need to exist in order to gain a deeper understanding of this dynamic? When exposed to increasing stress how will microbial communities respond? How do microbial communities recover after stress?
+
+In order to answer these questions, I both write new software, generally in the vain of big data, as well as use experimental systems, specifically the tool-set that metabarcoding and whole genome sequncing can provide. This means that I implement new data-basing and alignment strategies in order to solve the questions that I am interested in. 
 
 ![Env heatmap](assets/heatmap-1.png)<br>
 `environmental variables influencing sample to sample simularity`
+
+I research computational methods in ecological data, specifically within Metabarcoding, associating community structure with the environment, I have also looked at rare and pathogenic species in large amounts of data.  
 
 K-mer comparison methods that estimate distances between gnomic data can be used to generate environmental sample to sample distances in both metagenomic and metabarcoding applications. A pair-wise matrix of distances can be clustered via hierarchical methods. This De novo clustering of k-mer derived distances may describe the community structure of such samples, and may correlate with the environment. Such is the case with data correlated with soil measurements in the Atacama desert or data of shipping ports with sampling location from around the world. Some of the algorithms that can be leveraged to do this, like those using sketching (as is the case with Mash), suffix trees, or de Bruijn graphs show increased speed over original methods. Such methods can also be used to determine the presence or absence of a targeted species, as is shown with the search for the yeast C. Neoformans in 12634 18S metagenomic datasets. Available methods in k-mer analysis can be used in metagenomic and metabarcoding studies for the determination of significant subsets and for the presence absence of particular species. 
 
