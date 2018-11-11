@@ -40,7 +40,11 @@
 >  
 > ## ARTICLES
 > 
-> Ho, Yu-Jui , Naishitha Anaparthy, David Molik, Toby Aicher, Ami Patel, James Hicks, Molly G. Hammell. "SAKE (Single-cell RNA-Seq Analysis and Klustering Evaluation) Identifies Markers of Resistance to Targeted BRAF Inhibitors in Melanoma Cell Populations" Preprint: bioRxiv, 2017. [doi:10.1101/239319](https://doi.org/10.1101/239319).
+> **[accepted]** Molik, David C., Michael Pfrender, Scott Emrich. "Effects from structure of Metabarcode Sequences on Lossy Analysis of Microbiome Data" IEEE International Conference on Bioinformatics and Biomedicine, Data Analytics in Metagenomics, 2018
+>
+> **[accepted, short]** Tomlinson, DeAndre. David Molik, Michael Pfrender, Scott Emrich. "The Effects of Normalization, Transformation, and Rarefaction on Clustering of OTU Abundance" IEEE International Conference on Bioinformatics and Biomedicine, 2018
+>
+> Ho, Yu-Jui, Naishitha Anaparthy, David Molik, Grinu Mathew, Toby Aicher, Ami Patel, James Hicks, and Molly Gale Hammell. "Single-cell RNA-seq analysis identifies markers of resistance to targeted BRAF inhibitors in melanoma cell populations." Genome research, 2018, 1353-1363. [doi:10.1101/gr.234062.117](https://doi.org/10.1101/gr.234062.117). 
 >
 > Molik, David C., Michael Pfrender, Scott Emrich. "Methods in Description and Validation of Local Metagenetic Microbial Communities" Preprint: bioRxiv, 2017. [doi:10.1101/198614](https://doi.org/10.1101/198614).
 >
@@ -50,7 +54,7 @@
 >
 > Cumming, Grant P., Edward Morris, Paul Simpson, Tara French, Eva Kahana, Joanne S. Luciano, and David Molik. "The future of post-reproductive health–The role of the Internet, the Web, information provision and access." Post Reproductive Health, 2016, 123-130. [doi:10.1177/2053369116647858](https://doi.org/10.1177/2053369116647858).
 > 
-> Molik, David, and Michelle Sharer. “The Use of Recursive Bisection in the Mapping of Sample New York State Electoral Districts.” Proceedings of the 6th International Conference on Electronic Governance, 2012, 520–21. [doi:10.1145/2463728.2463844](https://doi.org/10.1145/2463728.2463844).
+> **[short]** Molik, David, and Michelle Sharer. “The Use of Recursive Bisection in the Mapping of Sample New York State Electoral Districts.” Proceedings of the 6th International Conference on Electronic Governance, 2012, 520–21. [doi:10.1145/2463728.2463844](https://doi.org/10.1145/2463728.2463844).
 >
 > ## ABSTRACTS - TALKS
 > *Only Talks and Posters in which I am the First or Last Author*
@@ -59,13 +63,13 @@
 >
 > **[poster]** Molik, David, Yu-Jui Ho, Ying Jin, and Molly Hammell. "Deployment of a Bioinformatics Analytics Platform in the Cloud." Proceedings of The Biological Data Science, 2016. https://meetings.cshl.edu/abstracts.aspx?meet=DATA&year=16.
 > 
-> **[talk]** Molik, David. “Implementing Best Practices in Bioinformatics, Issues of Data And Computational Tool Access That Will Affect Data Science in the Near Future.” In DATA ANALYTICS ACROSS DISCIPLINES: ACADEMIC ADVANCEMENT AND BUSINESS COMPETITIVENESS. Niagara Falls: National Professional Science Master’s Association, 2016. http://www.dataanalyticsacrossdisciplines.org/.
+> **[talk]** Molik, David. “Implementing Best Practices in Bioinformatics, Issues of Data And Computational Tool Access That Will Affect Data Science in the Near Future.” In Data Analytics Across Disciplines: Academic Advancement And Business Competitiveness. Niagara Falls: National Professional Science Master’s Association, 2016. http://www.dataanalyticsacrossdisciplines.org/.
 >
 >  **[poster]** Molik, David, Ying Jin, and Molly Hammell. “EDGY—Export of Data from Galaxy to Yabi, Automated Workflow Transfer to Command Line Tool” Proceedings of The Biology of Genomes, 2016. https://meetings.cshl.edu/abstracts.aspx?meet=genome&year=16..
 >
 >  **[poster]** Molik, David, Ying Jin, and Molly Hammell. “Automated Transfer of Workflows from Galaxy to Yabi and Command Line Tools.” In Proceedings of Genome Informatics 2015, 151. Cold Spring Harbor, 2015. https://meetings.cshl.edu/abstracts.aspx?meet=info&year=15.
 > 
-> **[talk]** Luciano, Joanne, Grant Cumming, Eva Kahana, Tara French, and David Molik. “Health Web Science: Health Science, the Web and Web Observatories.” Proceedings of INFORMS HEALTHCARE – 2015. http://meetings2.informs.org/wordpress/healthcare2015/.
+> **[talk]** Luciano, Joanne, Grant Cumming, Eva Kahana, Tara French, and David Molik. “Health Web Science: Health Science, the Web and Web Observatories.” Proceedings of Informs Healthcare – 2015. http://meetings2.informs.org/wordpress/healthcare2015/.
 >
 > ## ACHIEVEMENTS
 >
