@@ -10,7 +10,7 @@
 >
 > **University of Notre Dame, Notre Dame, IN**  
 > Phd. Integrated BioMedical Sciences  
-> Concentration in Computational Biology
+> Concentration in Computational Biology   
 > Advisor: [Michael Pfrender](https://www3.nd.edu/~mpfrende/)    
 > Aug/2016 –
 >
