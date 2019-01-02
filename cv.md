@@ -82,7 +82,7 @@
 >
 > Awarded “Graduate Student Union Conference Presentation Grant” (GSU CPG) to attend CSHL Genome Informatics 2017
 >
-> Awarded "Graduate School Professional Development Award" (ND Graduate School Professional Development) Notebart grant in the amount of $1000 to attend IEEE BIBM 2018 
+> Awarded "Graduate School Professional Development Award" (ND Graduate School Professional Development) Notebaert grant in the amount of $1000 to attend IEEE BIBM 2018 
 >
 > Eagle Scout, Achieved the Rank of Eagle in the Boy Scouts of America
 
