@@ -4,7 +4,7 @@
 
 ---
 > # David C. Molik
-> _Computational Biology PhD Student, Univerity of Notre Dame_
+> _Computational Biology PhD Student, University of Notre Dame_
 >
 > ## EDUCATION
 >
@@ -21,7 +21,7 @@
 > 
 > ## EMPLOYMENT  
 > 
-> **Graduate Research Assistant in Emrich lab, University of Notre Dame** – Notre Dame, IN  
+> **Graduate Research Assistant in [Emrich lab](http://web.eecs.utk.edu/~semrich/) , University of Notre Dame** – Notre Dame, IN  
 > Aug/2016 – Dec/2017
 >  
 > **Scientific Informatics Developer, Cold Spring Harbor Labratory** – Cold Spring Harbor,  NY  
@@ -33,7 +33,7 @@
 > **Undergraduate Researcher, Tetherless World Constellation** – Troy, NY  
 > Aug/2012 – Jan/2013  
 >  
-> **NSF REU, SUNY at Buffalo** –  Buffalo, NY  
+> **NSF REU, SUNY at Buffalo in [Corso Lab](http://web.eecs.umich.edu/~jjcorso/)** –  Buffalo, NY  
 > May/2012 – Aug/2012  
 >  
 > **Internship, Tetherless World Constellation** – Troy, NY  
