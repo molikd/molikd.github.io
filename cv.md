@@ -41,9 +41,9 @@
 >  
 > ## ARTICLES
 > 
-> **[accepted]** Molik, David C., Michael Pfrender, Scott Emrich. "Effects from structure of Metabarcode Sequences on Lossy Analysis of Microbiome Data" IEEE International Conference on Bioinformatics and Biomedicine, Data Analytics in Metagenomics, 2018
+Molik, David C., Michael Pfrender, Scott Emrich. "Effects from structure of Metabarcode Sequences on Lossy Analysis of Microbiome Data" IEEE International Conference on Bioinformatics and Biomedicine, Data Analytics in Metagenomics, 2018. [doi:10.1109/BIBM.2018.8621143](https://doi.org/10.1109/BIBM.2018.8621143).
 >
-> **[accepted, short]** Tomlinson, DeAndre. David Molik, Michael Pfrender, Scott Emrich. "The Effects of Normalization, Transformation, and Rarefaction on Clustering of OTU Abundance" IEEE International Conference on Bioinformatics and Biomedicine, 2018
+> **[short]** Tomlinson, DeAndre. David Molik, Michael Pfrender, Scott Emrich. "The Effects of Normalization, Transformation, and Rarefaction on Clustering of OTU Abundance" IEEE International Conference on Bioinformatics and Biomedicine, 2018. [10.1109/BIBM.2018.8621347](https://doi.org/10.1109/BIBM.2018.8621347).
 >
 > Ho, Yu-Jui, Naishitha Anaparthy, David Molik, Grinu Mathew, Toby Aicher, Ami Patel, James Hicks, and Molly Gale Hammell. "Single-cell RNA-seq analysis identifies markers of resistance to targeted BRAF inhibitors in melanoma cell populations." Genome research, 2018, 1353-1363. [doi:10.1101/gr.234062.117](https://doi.org/10.1101/gr.234062.117). 
 >
