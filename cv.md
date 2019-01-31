@@ -41,7 +41,7 @@
 >  
 > ## ARTICLES
 > 
-Molik, David C., Michael Pfrender, Scott Emrich. "Effects from structure of Metabarcode Sequences on Lossy Analysis of Microbiome Data" IEEE International Conference on Bioinformatics and Biomedicine, Data Analytics in Metagenomics, 2018. [doi:10.1109/BIBM.2018.8621143](https://doi.org/10.1109/BIBM.2018.8621143).
+> Molik, David C., Michael Pfrender, Scott Emrich. "Effects from structure of Metabarcode Sequences on Lossy Analysis of Microbiome Data" IEEE International Conference on Bioinformatics and Biomedicine, Data Analytics in Metagenomics, 2018. [doi:10.1109/BIBM.2018.8621143](https://doi.org/10.1109/BIBM.2018.8621143).
 >
 > **[short]** Tomlinson, DeAndre. David Molik, Michael Pfrender, Scott Emrich. "The Effects of Normalization, Transformation, and Rarefaction on Clustering of OTU Abundance" IEEE International Conference on Bioinformatics and Biomedicine, 2018. [10.1109/BIBM.2018.8621347](https://doi.org/10.1109/BIBM.2018.8621347).
 >
