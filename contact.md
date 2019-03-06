@@ -33,4 +33,5 @@ hr {	background: #595959; }
 blockquote { border-left: 1px solid #595959; }
 code { color: #4d4d4d; }
 p { color: #4d4d4d; } 
+p.view  { display: none; }
 </style>
