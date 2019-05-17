@@ -21,6 +21,9 @@
 > 
 > ## EMPLOYMENT  
 > 
+> **Graduate Research Assistant in [Goodson lab](https://chemistry.nd.edu/people/holly-goodson/) , University of Notre Dame** – Notre Dame, IN  
+> May/2019 – Aug/2019
+> 
 > **Graduate Research Assistant in [Emrich lab](http://web.eecs.utk.edu/~semrich/) , University of Notre Dame** – Notre Dame, IN  
 > Aug/2016 – Dec/2017
 >  
