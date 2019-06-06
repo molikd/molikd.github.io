@@ -44,7 +44,7 @@
 >  
 > ## ARTICLES
 > 
-> 李诣远 *(Yiyuan Li)*, David Molik, Michael Pfrender. 基于Nextflow构建的宏条形码自动化分析流程EPPS（基因组多样性专刊）*(EPPS, a metabarcoding bioinformatics pipeline using Nextflow)* . Biodiversity Science, 2019. [doi:10.17520/biods.2018211](https://doi.org/10.17520/biods.2018211).
+> 李诣远 *(Yiyuan Li)*, David Molik, Michael Pfrender. 基于Nextflow构建的宏条形码自动化分析流程EPPS（基因组多样性专刊）*(EPPS, a metabarcoding bioinformatics pipeline using Nextflow)* . Biodiversity Science, 2019. [doi:10.17520/biods.2018211](http://www.biodiversity-science.net/CN/10.17520/biods.2018211).
 > 
 > Molik, David C., Michael Pfrender, Scott Emrich. "Effects from structure of Metabarcode Sequences on Lossy Analysis of Microbiome Data" IEEE International Conference on Bioinformatics and Biomedicine, Data Analytics in Metagenomics, 2018. [doi:10.1109/BIBM.2018.8621143](https://doi.org/10.1109/BIBM.2018.8621143).
 >
