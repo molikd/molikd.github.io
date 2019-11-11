@@ -65,6 +65,8 @@
 > ## ABSTRACTS - TALKS
 > *Only Talks and Posters in which I am the First or Last Author*
 >
+> **[lightning talk/poster]** Molik, David. “𝗆𝖾𝗍—A web application tool and framework for the extensive comparison of metagenetic datasets.” In Proceedings of Genome Informatics 2019. Cold Spring Harbor, 2019. https://meetings.cshl.edu/abstracts.aspx?meet=INFO&year=19
+>
 > **[talk]** Molik, David, Michael Pfrender, Scott Emrich. “K-mer comparison methods in metagenomics, applications at the community level.” In Proceedings of Genome Informatics 2017. Cold Spring Harbor, 2017. https://meetings.cshl.edu/abstracts.aspx?meet=INFO&year=17 
 >
 > **[poster]** Molik, David, Yu-Jui Ho, Ying Jin, and Molly Hammell. "Deployment of a Bioinformatics Analytics Platform in the Cloud." Proceedings of The Biological Data Science, 2016. https://meetings.cshl.edu/abstracts.aspx?meet=DATA&year=16.
