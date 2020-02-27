@@ -21,10 +21,13 @@
 > 
 > ## EMPLOYMENT  
 > 
-> **Graduate Research Assistant in [Goodson lab](https://chemistry.nd.edu/people/holly-goodson/) , University of Notre Dame** – Notre Dame, IN  
+> **Teaching Assistant in [Navari Center for Digital Scholarship](https://cds.library.nd.edu/) , University of Notre Dame** – Notre Dame, IN  
+> Jan/2020 – 
+>
+> **Graduate Research Assistant in collaboration with [Goodson lab](https://chemistry.nd.edu/people/holly-goodson/) , University of Notre Dame** – Notre Dame, IN  
 > May/2019 – Aug/2019
 > 
-> **Graduate Research Assistant in [Emrich lab](http://web.eecs.utk.edu/~semrich/) , University of Notre Dame** – Notre Dame, IN  
+> **Graduate Research Assistant in collaboration with [Emrich lab](http://web.eecs.utk.edu/~semrich/) , University of Notre Dame** – Notre Dame, IN  
 > Aug/2016 – Dec/2017
 >  
 > **Scientific Informatics Developer, Cold Spring Harbor Labratory** – Cold Spring Harbor,  NY  
@@ -44,6 +47,8 @@
 >  
 > ## ARTICLES
 > 
+> **[Accepted, In Revision]** Molik, David C., Michael Pfrender, Scott Emrich. “Uncovering Effects from the Structure of MetabarcodeSequences for Metagenetic and Microbiome Analysis” Methods and Protocols, 2020.
+>
 > 李诣远 *(Yiyuan Li)*, David Molik, Michael Pfrender. 基于Nextflow构建的宏条形码自动化分析流程EPPS（基因组多样性专刊）*(EPPS, a metabarcoding bioinformatics pipeline using Nextflow)* . Biodiversity Science, 2019. [doi:10.17520/biods.2018211](http://www.biodiversity-science.net/CN/10.17520/biods.2018211).
 > 
 > Molik, David C., Michael Pfrender, Scott Emrich. "Effects from structure of Metabarcode Sequences on Lossy Analysis of Microbiome Data" IEEE International Conference on Bioinformatics and Biomedicine, Data Analytics in Metagenomics, 2018. [doi:10.1109/BIBM.2018.8621143](https://doi.org/10.1109/BIBM.2018.8621143).
@@ -92,6 +97,10 @@
 > Awarded “Graduate Student Union Conference Presentation Grant” (GSU CPG) to attend CSHL Genome Informatics 2017
 >
 > Awarded "Graduate School Professional Development Award" (ND Graduate School Professional Development) Notebaert grant in the amount of $1000 to attend IEEE BIBM 2018 
+>
+> Awarded $1176.43 from University of Notre Dame Professional Development Zahm Research Travel Grant Fund for travel to Genome Informatics 2020
+>
+> Awarded “Graduate Student Union Conference Presentation Grant” (GSU CPG) to attend Entomology 2019
 >
 > Eagle Scout, Achieved the Rank of Eagle in the Boy Scouts of America
 
