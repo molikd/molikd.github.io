@@ -86,7 +86,7 @@
 >
 > ## ACHIEVEMENTS
 >
-> Undergraduate Thesis, titled: “Oat: Comparing Ontologies and Text” Focused on Semantic Web Technologies and Distance Measures, Fall 2012
+> Undergraduate Thesis, titled: “Oat: Comparing Ontologies and Text” Focused on Semantic Web Technologies and Distance Measures, Advisor: [Deborah McGuinness](https://tw.rpi.edu/web/person/Deborah_L_McGuinness), Fall 2012
 >
 > **AWS Grants** - Received 10000 in AWS Could Credits for Research for exploring alternative bioinformatics research systems in the Amazon Cloud in 2016; received 30000 in AWS Could Credits for Research for exploring alternative bioinformatics research systems in the Amazon Cloud for as co-investigator in 2017; received 20000 in AWS Could Credits for Research for building metagenomic enrichment databases pipelines in 2019
 >
