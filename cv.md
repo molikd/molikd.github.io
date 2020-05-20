@@ -21,7 +21,7 @@
 > 
 > ## EMPLOYMENT  
 > 
-> **Teaching Assistant in [Navari Center for Digital Scholarship](https://cds.library.nd.edu/) , University of Notre Dame** – Notre Dame, IN  
+> **Graduate Scholar in [Navari Center for Digital Scholarship](https://cds.library.nd.edu/) , University of Notre Dame** – Notre Dame, IN  
 > Jan/2020 – 
 >
 > **Graduate Research Assistant in collaboration with [Goodson lab](https://chemistry.nd.edu/people/holly-goodson/) , University of Notre Dame** – Notre Dame, IN  
@@ -57,13 +57,17 @@
 >
 > Ho, Yu-Jui, Naishitha Anaparthy, David Molik, Grinu Mathew, Toby Aicher, Ami Patel, James Hicks, and Molly Gale Hammell. "Single-cell RNA-seq analysis identifies markers of resistance to targeted BRAF inhibitors in melanoma cell populations." Genome research, 2018, 1353-1363. [doi:10.1101/gr.234062.117](https://doi.org/10.1101/gr.234062.117). 
 >
-> Cumming, Grant P., Tara French, Jamie Hogg, Douglas McKendrick, Heidi Gilstad, David Molik, and Joanne S. Luciano. "Trust and Provenance in Communication to eHealth Consumers." In The Digitization of Healthcare, pp. 189-203. Palgrave Macmillan, London, 2017. [doi:10.1057/978-1-349-95173-4_11](https://doi.org/10.1057/978-1-349-95173-4_11).
->
-> Cumming, Grant P., Douglas McKendrick, Jamie Hogg, Tara French, Eva Kahana, David Molik, and Joanne S. Luciano. "Formulating eHealth Utilizing an Ecological Understanding." In The Digitization of Healthcare, pp. 81-98. Palgrave Macmillan, London, 2017. [doi:10.1057/978-1-349-95173-4_5](https://doi.org/10.1057/978-1-349-95173-4_5).
->
 > Cumming, Grant P., Edward Morris, Paul Simpson, Tara French, Eva Kahana, Joanne S. Luciano, and David Molik. "The future of post-reproductive health–The role of the Internet, the Web, information provision and access." Post Reproductive Health, 2016, 123-130. [doi:10.1177/2053369116647858](https://doi.org/10.1177/2053369116647858).
 > 
 > **[short]** Molik, David, and Michelle Sharer. “The Use of Recursive Bisection in the Mapping of Sample New York State Electoral Districts.” Proceedings of the 6th International Conference on Electronic Governance, 2012, 520–21. [doi:10.1145/2463728.2463844](https://doi.org/10.1145/2463728.2463844).
+>
+> ## Chapters and Whitepapers
+>
+> RDA COVID-19 Working Group. recommendations and guidelines. Research Data Alliance. 2020. [doi:10.15497/rda00046](https://doi.org/10.15497/rda00046).
+>
+> Cumming, Grant P., Tara French, Jamie Hogg, Douglas McKendrick, Heidi Gilstad, David Molik, and Joanne S. Luciano. "Trust and Provenance in Communication to eHealth Consumers." In The Digitization of Healthcare, pp. 189-203. Palgrave Macmillan, London, 2017. [doi:10.1057/978-1-349-95173-4_11](https://doi.org/10.1057/978-1-349-95173-4_11).
+>
+> Cumming, Grant P., Douglas McKendrick, Jamie Hogg, Tara French, Eva Kahana, David Molik, and Joanne S. Luciano. "Formulating eHealth Utilizing an Ecological Understanding." In The Digitization of Healthcare, pp. 81-98. Palgrave Macmillan, London, 2017. [doi:10.1057/978-1-349-95173-4_5](https://doi.org/10.1057/978-1-349-95173-4_5).
 >
 > ## ABSTRACTS - TALKS
 > *Only Talks and Posters in which I am the First or Last Author*
