@@ -92,7 +92,13 @@
 >
 > ## ACHIEVEMENTS
 >
+> Organized and Partially taught "Bioinformatics Introductory Program (BIP) Week 2020" a introductory bioinformatics program for incoming Life Sciences graduate students at the University of Notre Dame. Based on carpentries.org curriculum, the workshop spanned four days and had over 20 volunteers.
+>
 > Undergraduate Thesis, titled: “Oat: Comparing Ontologies and Text” Focused on Semantic Web Technologies and Distance Measures, Advisor: [Deborah McGuinness](https://tw.rpi.edu/web/person/Deborah_L_McGuinness), Fall 2012
+>
+> Eagle Scout, Achieved the Rank of Eagle in the Boy Scouts of America
+>
+> ## Funding
 >
 > **AWS Grants** - Received 10000 in AWS Could Credits for Research for exploring alternative bioinformatics research systems in the Amazon Cloud in 2016; received 30000 in AWS Could Credits for Research for exploring alternative bioinformatics research systems in the Amazon Cloud for as co-investigator in 2017; received 20000 in AWS Could Credits for Research for building metagenomic enrichment databases pipelines in 2019
 >
@@ -105,8 +111,6 @@
 > Awarded $1176.43 from University of Notre Dame Professional Development Zahm Research Travel Grant Fund for travel to Genome Informatics 2020
 >
 > Awarded “Graduate Student Union Conference Presentation Grant” (GSU CPG) to attend Entomology 2019
->
-> Eagle Scout, Achieved the Rank of Eagle in the Boy Scouts of America
 
 <meta name="keywords" content="David Molik, Molik, Curriculum Vitae, CV, Resume"/>
 <meta name="description" content="David Molik's CV, information on past employment"/>
