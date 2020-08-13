@@ -30,19 +30,19 @@
 > **Graduate Research Assistant in collaboration with [Emrich lab](http://web.eecs.utk.edu/~semrich/) , University of Notre Dame** – Notre Dame, IN  
 > Aug/2016 – Dec/2017
 >  
-> **Scientific Informatics Developer, Cold Spring Harbor Labratory** – Cold Spring Harbor,  NY  
+> **Scientific Informatics Developer, [Cold Spring Harbor Labratory](https://www.cshl.edu/research/cancer/bioinformatics/)** – Cold Spring Harbor,  NY  
 > Dec/2014 – Aug/2016  
 >  
-> **Software Engineer, Synacor** – Buffalo, NY  
+> **Software Engineer; Network Operations Center Manager, [Synacor](https://synacor.com/)** – Buffalo, NY  
 > July/2013 – Nov/2014  
 >  
-> **Undergraduate Researcher, Tetherless World Constellation** – Troy, NY  
+> **Undergraduate Researcher, [Tetherless World Constellation](https://tw.rpi.edu//)** – Troy, NY  
 > Aug/2012 – Jan/2013  
 >  
 > **NSF REU, SUNY at Buffalo in [Corso Lab](http://web.eecs.umich.edu/~jjcorso/)** –  Buffalo, NY  
 > May/2012 – Aug/2012  
 >  
-> **Internship, Tetherless World Constellation** – Troy, NY  
+> **Internship, [Tetherless World Constellation](https://tw.rpi.edu//)** – Troy, NY  
 > May/2010 – Aug/2010  
 >  
 > ## ARTICLES
