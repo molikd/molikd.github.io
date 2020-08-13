@@ -92,7 +92,7 @@
 >
 > ## TEACHING
 >
-> Designed and Taught University of Notre Dame's first Computational Genomics course, "BIOS 60132 - Introduction to Computational Genomics" a graduate level, three creidt course teaching commonly used algoithms in Computational Genomcs in Fall of 2020 
+> Designed and Taught University of Notre Dame's first Computational Genomics course, "[BIOS 60132 - Introduction to Computational Genomics](http://david.molik.co/ND_ICG_2020/)" a graduate level, three credit course teaching commonly used algoithms in Computational Genomcs in Fall of 2020 
 >
 > Organized and Partially taught "Bioinformatics Introductory Program (BIP) Week 2020" a introductory bioinformatics program for incoming Life Sciences graduate students at the University of Notre Dame. Based on carpentries.org curriculum, the workshop spanned four days and had over 20 volunteers in Summer 2020, for [Center for Digital Scholarship](https://cds.library.nd.edu/).
 >
