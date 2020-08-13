@@ -90,9 +90,23 @@
 > 
 > **[talk]** Luciano, Joanne, Grant Cumming, Eva Kahana, Tara French, and David Molik. “Health Web Science: Health Science, the Web and Web Observatories.” Proceedings of Informs Healthcare – 2015. http://meetings2.informs.org/wordpress/healthcare2015/.
 >
-> ## ACHIEVEMENTS
+> ## TEACHING
 >
-> Organized and Partially taught "Bioinformatics Introductory Program (BIP) Week 2020" a introductory bioinformatics program for incoming Life Sciences graduate students at the University of Notre Dame. Based on carpentries.org curriculum, the workshop spanned four days and had over 20 volunteers.
+> Designed and Taught University of Notre Dame's first Computational Genomics course, "BIOS 60132 - Introduction to Computational Genomics" a graduate level, three creidt course teaching commonly used algoithms in Computational Genomcs in Fall of 2020 
+>
+> Organized and Partially taught "Bioinformatics Introductory Program (BIP) Week 2020" a introductory bioinformatics program for incoming Life Sciences graduate students at the University of Notre Dame. Based on carpentries.org curriculum, the workshop spanned four days and had over 20 volunteers in Summer 2020, for [Center for Digital Scholarship](https://cds.library.nd.edu/).
+>
+> Taught Data Carpentries Genomics curriculm as a series of workshops over the course of Spring 2020, for Center for Digtial Scholarship. First in-person, and then online in Spring 2020, for [Center for Digital Scholarship](https://cds.library.nd.edu/).
+>
+> Lab Teaching assistant for "BIOS 30420/60562 - Aquatic Insects" in Fall 2019, for [Ronald Hellenthal](https://biodiversity.nd.edu/contact/).
+> 
+> Lecture Teaching assistant for "BIOS 10172 - Biology II: Molecules to Ecosystems" in Spring of 2019, for [Joesph O'Tousa](https://www3.nd.edu/~jotousa/labwww/).
+>
+> Lab Teaching assistant for "BIOS 31312 - General Ecology Laboratory" in Fall 2018, for [Dominic Chaloner](https://biology.nd.edu/people/dominic-chaloner/).
+> 
+> Lab Teaching assistant for "BIOS 21202 - General Biology B Laboratory" in Spring 2018, for [Dominic Chaloner](https://biology.nd.edu/people/dominic-chaloner/).
+>
+> ## ACHIEVEMENTS
 >
 > Undergraduate Thesis, titled: “Oat: Comparing Ontologies and Text” Focused on Semantic Web Technologies and Distance Measures, Advisor: [Deborah McGuinness](https://tw.rpi.edu/web/person/Deborah_L_McGuinness), Fall 2012
 >
