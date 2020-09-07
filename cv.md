@@ -47,6 +47,8 @@
 >  
 > ## ARTICLES
 > 
+> **[preprint, submitted]** David C. Molik, DeAndre Tomlinson, Shane Davitt, Eric L. Morgan, Benjamin Roche, Natalie Meyers, Michael E. Pfrender. "Combining Natural Language Processing and Metabarcoding to Reveal Pathogen-Environment Associations" bioRxiv, 2020. [doi:10.1101/2020.09.02.280578](https://doi.org/10.1101/2020.09.02.280578 )
+>
 > **[preprint, submitted]** Joseph Y Ong, Julia T Pence, David C Molik, Holly V Goodson. "Yeast grown in continuous culture systems can detect mutagens with improved sensitivity relative to the Ames test" bioRxiv, 2020. [doi:10.1101/2020.06.15.152371](https://doi.org/10.1101/2020.06.15.152371)
 >
 > Molik, David C., Michael Pfrender, Scott Emrich. “Uncovering Effects from the Structure of MetabarcodeSequences for Metagenetic and Microbiome Analysis” Methods and Protocols, 2020. [doi:10.3390/mps3010022](https://doi.org/10.3390/mps3010022)
