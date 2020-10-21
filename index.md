@@ -17,7 +17,7 @@ I have also researched computational methods in general, mostly with ecological 
 
 
 ![All pairwise](assets/dendogram-1.png)<br>
-`12634 18S metagenomic datasets compared to eachother, colored by type of source, ie:soil vs. aquatic`
+`12634 18S metagenomic datasets compared to eachother, colored by type of source, ie:soil vs. aquatic, I accidentally put my coffee down on the visualization which accounts for the stain.`
 
 <meta name="keywords" content="David Molik, Molik, Metagenetic, Metabarcoding"/>
 <meta name="description" content="David Molik's research interests: Expploring Metagenetic and Metabarcoding analysis"/>
