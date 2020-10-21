@@ -76,6 +76,8 @@
 > ## ABSTRACTS - TALKS
 > *Only Talks and Posters in which I am the First or Last Author*
 >
+> **[poster]** Molik, David, DeAndre Tomlinson, Shane Davitt, Eric L. Morgan, Benjamin Roche, Natalie Meyers, Michael E. Pfrender. "Automated text categorization and metabarcoding reinforces Cryptococcus neoformans–woody decomposition association." Biological Data Science (Virtual). Cold Spring Harbor, 2020.
+>
 > **[invited/talk]** Molik, David, Stephen Richards, Michael Pfrender. "Data mining for the prioritization of American insecta genomes." Entomology 2019. Entomological Society of America, 2019. https://esa.confex.com/esa/2019/meetingapp.cgi/Paper/143297.
 >
 > **[lightning talk/poster]** Molik, David. "𝗆𝖾𝗍—A web application tool and framework for the extensive comparison of metagenetic datasets." In Proceedings of Genome Informatics 2019. Cold Spring Harbor, 2019. [doi:10.7490/f1000research.1117645.1](https://doi.org/10.7490/f1000research.1117645.1).
@@ -124,9 +126,12 @@
 >
 > Awarded "Graduate School Professional Development Award" (ND Graduate School Professional Development) Notebaert grant in the amount of $1000 to attend IEEE BIBM 2018 
 >
-> Awarded $1176.43 from University of Notre Dame Professional Development Zahm Research Travel Grant Fund for travel to Genome Informatics 2020
+> Awarded $1176.43 from University of Notre Dame Professional Development Zahm Research Travel Grant Fund for travel to CSHL Genome Informatics 2019
 >
 > Awarded “Graduate Student Union Conference Presentation Grant” (GSU CPG) to attend Entomology 2019
+>
+> Awarded University of Notre Dame Professional Development Zahm Research Travel Grant Fund for attendance to CSHL Biological Data Science 2020
+>
 
 <meta name="keywords" content="David Molik, Molik, Curriculum Vitae, CV, Resume"/>
 <meta name="description" content="David Molik's CV, information on past employment"/>
