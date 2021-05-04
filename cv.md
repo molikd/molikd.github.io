@@ -4,7 +4,7 @@
 
 ---
 > # David C. Molik
-> _Computational Biology PhD Student, University of Notre Dame_
+> _Computational Evolution PhD, University of Notre Dame_
 >
 > ## EDUCATION
 >
