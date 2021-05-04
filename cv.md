@@ -12,7 +12,7 @@
 > Phd. Integrated BioMedical Sciences  
 > Concentration in Computational Biology   
 > Advisor: [Michael Pfrender](https://www3.nd.edu/~mpfrende/)    
-> Aug/2016 –
+> Aug/2016 – May/2021
 >
 > **Rensselaer Polytechnic Institute, Troy, NY**  
 > BS. Information Technology and Web Science  
@@ -26,6 +26,9 @@
 >
 > **Graduate Research Assistant in collaboration with [Goodson lab](https://chemistry.nd.edu/people/holly-goodson/) , University of Notre Dame** – Notre Dame, IN  
 > May/2019 – Aug/2019
+> 
+> **Graduate Research Assistant in collaboration with [Genomics and Bioinformatics Core](https://genomics.nd.edu/) , University of Notre Dame** – Notre Dame, IN  
+> May/2018 – Aug/2018
 > 
 > **Graduate Research Assistant in collaboration with [Emrich lab](http://web.eecs.utk.edu/~semrich/) , University of Notre Dame** – Notre Dame, IN  
 > Aug/2016 – Dec/2017
@@ -47,9 +50,9 @@
 >  
 > ## ARTICLES
 > 
-> **[preprint, accepted]** David C. Molik, DeAndre Tomlinson, Shane Davitt, Eric L. Morgan, Benjamin Roche, Natalie Meyers, Michael E. Pfrender. "Combining Natural Language Processing and Metabarcoding to Reveal Pathogen-Environment Associations" bioRxiv, 2020. [doi:10.1101/2020.09.02.280578](https://doi.org/10.1101/2020.09.02.280578 )
+> David C. Molik, DeAndre Tomlinson, Shane Davitt, Eric L. Morgan, Matt Sisk, Benjamin Roche, Natalie Meyers, Michael E. Pfrender. "Combining Natural Language Processing and Metabarcoding to Reveal Pathogen-Environment Associations" PLoS Negl Trop Dis, 2021. [doi:10.1371/journal.pntd.0008755](https://doi.org/10.1371/journal.pntd.0008755)
 >
->  Ong Joseph Y., Julia T Pence, David C Molik, Holly V Goodson. "Yeast grown in continuous culture systems can detect mutagens with improved sensitivity relative to the Ames test" PLoS ONE 2021. [doi:10.1371/journal.pone.0235303](https://doi.org/10.1371/journal.pone.0235303)
+>  Ong Joseph Y., Julia T Pence, David C Molik, Holly V Goodson. "Yeast grown in continuous culture systems can detect mutagens with improved sensitivity relative to the Ames test" PLoS ONE, 2021. [doi:10.1371/journal.pone.0235303](https://doi.org/10.1371/journal.pone.0235303)
 >
 > Molik, David C., Michael Pfrender, Scott Emrich. “Uncovering Effects from the Structure of MetabarcodeSequences for Metagenetic and Microbiome Analysis” Methods and Protocols, 2020. [doi:10.3390/mps3010022](https://doi.org/10.3390/mps3010022)
 >
