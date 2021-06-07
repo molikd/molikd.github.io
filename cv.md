@@ -20,33 +20,34 @@
 > Aug/2009 – Dec/2012  
 > 
 > ## EMPLOYMENT  
-> 
-> **Graduate Scholar in [Navari Center for Digital Scholarship](https://cds.library.nd.edu/) , University of Notre Dame** – Notre Dame, IN  
-> Jan/2020 – 
 >
-> **Graduate Research Assistant in collaboration with [Goodson lab](https://chemistry.nd.edu/people/holly-goodson/) , University of Notre Dame** – Notre Dame, IN  
+> ### PhD Student Positions at the University of Notre Dame** – Notre Dame, IN
+> 
+> **Graduate Scholar in [Navari Center for Digital Scholarship](https://cds.library.nd.edu/)** 
+> Jan/2020 – Jun/2021
+> **Graduate Research Assistant in collaboration with [Goodson lab](https://chemistry.nd.edu/people/holly-goodson/)**  
 > May/2019 – Aug/2019
-> 
-> **Graduate Research Assistant in collaboration with [Genomics and Bioinformatics Core](https://genomics.nd.edu/) , University of Notre Dame** – Notre Dame, IN  
+> **Graduate Research Assistant in collaboration with [Genomics and Bioinformatics Core](https://genomics.nd.edu/)**  
 > May/2018 – Aug/2018
-> 
-> **Graduate Research Assistant in collaboration with [Emrich lab](http://web.eecs.utk.edu/~semrich/) , University of Notre Dame** – Notre Dame, IN  
+> **Graduate Research Assistant in collaboration with [Emrich lab](http://web.eecs.utk.edu/~semrich/)**  
 > Aug/2016 – Dec/2017
->  
+>
+> ### Positions held prior to University of Notre Dame PhD studentship**
+>
 > **Scientific Informatics Developer, [Cold Spring Harbor Labratory](https://www.cshl.edu/research/cancer/bioinformatics/)** – Cold Spring Harbor,  NY  
 > Dec/2014 – Aug/2016  
 >  
 > **Software Engineer; Network Operations Center Manager, [Synacor](https://synacor.com/)** – Buffalo, NY  
 > July/2013 – Nov/2014  
+>
+> ### Positions held duing BS studentship at Rensselaer Polytechnic Institute** – Troy, NY
 >  
-> **Undergraduate Researcher, [Tetherless World Constellation](https://tw.rpi.edu//)** – Troy, NY  
-> Aug/2012 – Jan/2013  
->  
-> **NSF REU, SUNY at Buffalo in [Corso Lab](http://web.eecs.umich.edu/~jjcorso/)** –  Buffalo, NY  
-> May/2012 – Aug/2012  
->  
-> **Internship, [Tetherless World Constellation](https://tw.rpi.edu//)** – Troy, NY  
-> May/2010 – Aug/2010  
+> **Undergraduate Researcher, [Tetherless World Constellation](https://tw.rpi.edu//)** 
+> Aug/2012 – Jan/2013
+> **NSF REU, SUNY at Buffalo in [Corso Lab](http://web.eecs.umich.edu/~jjcorso/)**
+> May/2012 – Aug/2012
+> **Internship, [Tetherless World Constellation](https://tw.rpi.edu//)** 
+> May/2010 – Aug/2010
 >  
 > ## ARTICLES
 > 
