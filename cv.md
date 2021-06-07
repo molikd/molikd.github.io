@@ -4,7 +4,7 @@
 
 ---
 > # David C. Molik
-> _Computational Evolution PhD, University of Notre Dame_
+> _Computational Ecology and Evolution PhD, University of Notre Dame_
 >
 > ## EDUCATION
 >
