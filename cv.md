@@ -23,14 +23,14 @@
 >
 > ### PhD Student Positions at the University of Notre Dame** – Notre Dame, IN
 > 
-> **Graduate Scholar in [Navari Center for Digital Scholarship](https://cds.library.nd.edu/)** 
-> Jan/2020 – Jun/2021
-> **Graduate Research Assistant in collaboration with [Goodson lab](https://chemistry.nd.edu/people/holly-goodson/)**  
-> May/2019 – Aug/2019
-> **Graduate Research Assistant in collaboration with [Genomics and Bioinformatics Core](https://genomics.nd.edu/)**  
-> May/2018 – Aug/2018
-> **Graduate Research Assistant in collaboration with [Emrich lab](http://web.eecs.utk.edu/~semrich/)**  
-> Aug/2016 – Dec/2017
+> - **Graduate Scholar in [Navari Center for Digital Scholarship](https://cds.library.nd.edu/)** 
+>   - Jan/2020 – Jun/2021
+> - **Graduate Research Assistant in collaboration with [Goodson lab](https://chemistry.nd.edu/people/holly-goodson/)**  
+>   - May/2019 – Aug/2019
+> - **Graduate Research Assistant in collaboration with [Genomics and Bioinformatics Core](https://genomics.nd.edu/)**  
+>   - May/2018 – Aug/2018
+> - **Graduate Research Assistant in collaboration with [Emrich lab](http://web.eecs.utk.edu/~semrich/)**  
+>   - Aug/2016 – Dec/2017
 >
 > ### Positions held prior to University of Notre Dame PhD studentship**
 >
@@ -42,12 +42,12 @@
 >
 > ### Positions held duing BS studentship at Rensselaer Polytechnic Institute** – Troy, NY
 >  
-> **Undergraduate Researcher, [Tetherless World Constellation](https://tw.rpi.edu//)** 
-> Aug/2012 – Jan/2013
-> **NSF REU, SUNY at Buffalo in [Corso Lab](http://web.eecs.umich.edu/~jjcorso/)**
-> May/2012 – Aug/2012
-> **Internship, [Tetherless World Constellation](https://tw.rpi.edu//)** 
-> May/2010 – Aug/2010
+> - **Undergraduate Researcher, [Tetherless World Constellation](https://tw.rpi.edu//)** 
+>   - Aug/2012 – Jan/2013
+> - **NSF REU, SUNY at Buffalo in [Corso Lab](http://web.eecs.umich.edu/~jjcorso/)**
+>   - May/2012 – Aug/2012
+> - **Internship, [Tetherless World Constellation](https://tw.rpi.edu//)** 
+>   - May/2010 – Aug/2010
 >  
 > ## ARTICLES
 > 
