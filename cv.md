@@ -21,7 +21,7 @@
 > 
 > ## EMPLOYMENT  
 >
-> ### PhD Student Positions at the University of Notre Dame** – Notre Dame, IN
+> ### PhD Student Positions at the University of Notre Dame – Notre Dame, IN
 > 
 > - **Graduate Scholar in [Navari Center for Digital Scholarship](https://cds.library.nd.edu/)** 
 >   - Jan/2020 – Jun/2021
@@ -40,7 +40,7 @@
 > **Software Engineer; Network Operations Center Manager, [Synacor](https://synacor.com/)** – Buffalo, NY  
 > July/2013 – Nov/2014  
 >
-> ### Positions held duing BS studentship at Rensselaer Polytechnic Institute** – Troy, NY
+> ### Positions held duing BS studentship at Rensselaer Polytechnic Institute – Troy, NY
 >  
 > - **Undergraduate Researcher, [Tetherless World Constellation](https://tw.rpi.edu//)** 
 >   - Aug/2012 – Jan/2013
