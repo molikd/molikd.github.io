@@ -80,23 +80,23 @@
 > ## ABSTRACTS - TALKS
 > *Only Talks and Posters in which I am the First or Last Author*
 >
-> **[poster]** Molik, David, DeAndre Tomlinson, Shane Davitt, Eric L. Morgan, Benjamin Roche, Natalie Meyers, Michael E. Pfrender. "Automated text categorization and metabarcoding reinforces Cryptococcus neoformans–woody decomposition association." Biological Data Science (Virtual). Cold Spring Harbor, 2020.
+> **[poster]** Molik, David, DeAndre Tomlinson, Shane Davitt, Eric L. Morgan, Benjamin Roche, Natalie Meyers, Michael E. Pfrender. "Automated text categorization and metabarcoding reinforces Cryptococcus neoformans–woody decomposition association." Biological Data Science (Virtual). Cold Spring Harbor, 2020. [meetings.cshl.edu/meetings.aspx?meet=data&year=20](https://meetings.cshl.edu/meetings.aspx?meet=data&year=20)
 >
-> **[invited/talk]** Molik, David, Stephen Richards, Michael Pfrender. "Data mining for the prioritization of American insecta genomes." Entomology 2019. Entomological Society of America, 2019. https://esa.confex.com/esa/2019/meetingapp.cgi/Paper/143297.
+> **[invited/talk]** Molik, David, Stephen Richards, Michael Pfrender. "Data mining for the prioritization of American insecta genomes." Entomology 2019. Entomological Society of America, 2019. [esa.confex.com/esa/2019/meetingapp.cgi/Paper/143297](https://esa.confex.com/esa/2019/meetingapp.cgi/Paper/143297).
 >
 > **[lightning talk/poster]** Molik, David. "𝗆𝖾𝗍—A web application tool and framework for the extensive comparison of metagenetic datasets." In Proceedings of Genome Informatics 2019. Cold Spring Harbor, 2019. [doi:10.7490/f1000research.1117645.1](https://doi.org/10.7490/f1000research.1117645.1).
 >
-> **[talk]** Molik, David, Michael Pfrender, Scott Emrich. “K-mer comparison methods in metagenomics, applications at the community level.” In Proceedings of Genome Informatics 2017. Cold Spring Harbor, 2017. https://meetings.cshl.edu/abstracts.aspx?meet=INFO&year=17 
+> **[talk]** Molik, David, Michael Pfrender, Scott Emrich. “K-mer comparison methods in metagenomics, applications at the community level.” In Proceedings of Genome Informatics 2017. Cold Spring Harbor, 2017. [meetings.cshl.edu/abstracts.aspx?meet=INFO&year=17](https://meetings.cshl.edu/abstracts.aspx?meet=INFO&year=17). 
 >
-> **[poster]** Molik, David, Yu-Jui Ho, Ying Jin, and Molly Hammell. "Deployment of a Bioinformatics Analytics Platform in the Cloud." Proceedings of The Biological Data Science 2016 Cold Spring Harbor, 2016. https://meetings.cshl.edu/abstracts.aspx?meet=DATA&year=16.
+> **[poster]** Molik, David, Yu-Jui Ho, Ying Jin, and Molly Hammell. "Deployment of a Bioinformatics Analytics Platform in the Cloud." Proceedings of The Biological Data Science 2016 Cold Spring Harbor, 2016. [meetings.cshl.edu/abstracts.aspx?meet=DATA&year=16](https://meetings.cshl.edu/abstracts.aspx?meet=DATA&year=16).
 > 
-> **[talk]** Molik, David. “Implementing Best Practices in Bioinformatics, Issues of Data And Computational Tool Access That Will Affect Data Science in the Near Future.” In Data Analytics Across Disciplines: Academic Advancement And Business Competitiveness. National Professional Science Master’s Association, 2016. http://www.dataanalyticsacrossdisciplines.org/.
+> **[talk]** Molik, David. “Implementing Best Practices in Bioinformatics, Issues of Data And Computational Tool Access That Will Affect Data Science in the Near Future.” In Data Analytics Across Disciplines: Academic Advancement And Business Competitiveness. National Professional Science Master’s Association, 2016. [www.dataanalyticsacrossdisciplines.org](http://www.dataanalyticsacrossdisciplines.org/).
 >
->  **[poster]** Molik, David, Ying Jin, and Molly Hammell. “EDGY—Export of Data from Galaxy to Yabi, Automated Workflow Transfer to Command Line Tool” Proceedings of The Biology of Genomes, 2016. https://meetings.cshl.edu/abstracts.aspx?meet=genome&year=16.
+>  **[poster]** Molik, David, Ying Jin, and Molly Hammell. “EDGY—Export of Data from Galaxy to Yabi, Automated Workflow Transfer to Command Line Tool” Proceedings of The Biology of Genomes, 2016. [meetings.cshl.edu/abstracts.aspx?meet=genome&year=16](https://meetings.cshl.edu/abstracts.aspx?meet=genome&year=16).
 >
->  **[poster]** Molik, David, Ying Jin, and Molly Hammell. “Automated Transfer of Workflows from Galaxy to Yabi and Command Line Tools.” In Proceedings of Genome Informatics 2015, 151. Cold Spring Harbor, 2015. https://meetings.cshl.edu/abstracts.aspx?meet=info&year=15.
+>  **[poster]** Molik, David, Ying Jin, and Molly Hammell. “Automated Transfer of Workflows from Galaxy to Yabi and Command Line Tools.” In Proceedings of Genome Informatics 2015, 151. Cold Spring Harbor, 2015. [meetings.cshl.edu/abstracts.aspx?meet=info&year=15](https://meetings.cshl.edu/abstracts.aspx?meet=info&year=15).
 > 
-> **[talk]** Luciano, Joanne, Grant Cumming, Eva Kahana, Tara French, and David Molik. “Health Web Science: Health Science, the Web and Web Observatories.” Proceedings of Informs Healthcare – 2015. http://meetings2.informs.org/wordpress/healthcare2015/.
+> **[talk]** Luciano, Joanne, Grant Cumming, Eva Kahana, Tara French, and David Molik. “Health Web Science: Health Science, the Web and Web Observatories.” Proceedings of Informs Healthcare – 2015. [meetings2.informs.org/wordpress/healthcare2015/](http://meetings2.informs.org/wordpress/healthcare2015/).
 >
 > ## TEACHING
 >
