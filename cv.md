@@ -58,15 +58,17 @@
 > Molik, David C., Michael Pfrender, Scott Emrich. “Uncovering Effects from the Structure of MetabarcodeSequences for Metagenetic and Microbiome Analysis” Methods and Protocols, 2020. [doi:10.3390/mps3010022](https://doi.org/10.3390/mps3010022)
 >
 > 李诣远 *(Yiyuan Li)*, David Molik, Michael Pfrender. 基于Nextflow构建的宏条形码自动化分析流程EPPS（基因组多样性专刊）*(EPPS, a metabarcoding bioinformatics pipeline using Nextflow)* . Biodiversity Science, 2019. [doi:10.17520/biods.2018211](http://www.biodiversity-science.net/CN/10.17520/biods.2018211).
-> 
-> Molik, David C., Michael Pfrender, Scott Emrich. "Effects from structure of Metabarcode Sequences on Lossy Analysis of Microbiome Data" IEEE International Conference on Bioinformatics and Biomedicine, Data Analytics in Metagenomics, 2018. [doi:10.1109/BIBM.2018.8621143](https://doi.org/10.1109/BIBM.2018.8621143).
->
-> **[short]** Tomlinson, DeAndre. David Molik, Michael Pfrender, Scott Emrich. "The Effects of Normalization, Transformation, and Rarefaction on Clustering of OTU Abundance" IEEE International Conference on Bioinformatics and Biomedicine, 2018. [10.1109/BIBM.2018.8621347](https://doi.org/10.1109/BIBM.2018.8621347).
 >
 > Ho, Yu-Jui, Naishitha Anaparthy, David Molik, Grinu Mathew, Toby Aicher, Ami Patel, James Hicks, and Molly Gale Hammell. "Single-cell RNA-seq analysis identifies markers of resistance to targeted BRAF inhibitors in melanoma cell populations." Genome research, 2018, 1353-1363. [doi:10.1101/gr.234062.117](https://doi.org/10.1101/gr.234062.117). 
 >
 > Cumming, Grant P., Edward Morris, Paul Simpson, Tara French, Eva Kahana, Joanne S. Luciano, and David Molik. "The future of post-reproductive health–The role of the Internet, the Web, information provision and access." Post Reproductive Health, 2016, 123-130. [doi:10.1177/2053369116647858](https://doi.org/10.1177/2053369116647858).
-> 
+>
+> ## Conference Papers
+>
+> Molik, David C., Michael Pfrender, Scott Emrich. "Effects from structure of Metabarcode Sequences on Lossy Analysis of Microbiome Data" IEEE International Conference on Bioinformatics and Biomedicine, Data Analytics in Metagenomics, 2018. [doi:10.1109/BIBM.2018.8621143](https://doi.org/10.1109/BIBM.2018.8621143).
+>
+> **[short]** Tomlinson, DeAndre. David Molik, Michael Pfrender, Scott Emrich. "The Effects of Normalization, Transformation, and Rarefaction on Clustering of OTU Abundance" IEEE International Conference on Bioinformatics and Biomedicine, 2018. [10.1109/BIBM.2018.8621347](https://doi.org/10.1109/BIBM.2018.8621347).
+>
 > **[short]** Molik, David, and Michelle Sharer. “The Use of Recursive Bisection in the Mapping of Sample New York State Electoral Districts.” Proceedings of the 6th International Conference on Electronic Governance, 2012, 520–21. [doi:10.1145/2463728.2463844](https://doi.org/10.1145/2463728.2463844).
 >
 > ## Chapters and Whitepapers
@@ -97,6 +99,7 @@
 >  **[poster]** Molik, David, Ying Jin, and Molly Hammell. “Automated Transfer of Workflows from Galaxy to Yabi and Command Line Tools.” In Proceedings of Genome Informatics 2015, 151. Cold Spring Harbor, 2015. [meetings.cshl.edu/abstracts.aspx?meet=info&year=15](https://meetings.cshl.edu/abstracts.aspx?meet=info&year=15).
 > 
 > **[talk]** Luciano, Joanne, Grant Cumming, Eva Kahana, Tara French, and David Molik. “Health Web Science: Health Science, the Web and Web Observatories.” Proceedings of Informs Healthcare – 2015. [meetings2.informs.org/wordpress/healthcare2015/](http://meetings2.informs.org/wordpress/healthcare2015/).
+> 
 >
 > ## TEACHING
 >
