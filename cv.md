@@ -125,7 +125,12 @@
 >
 > ## Funding
 >
-> **AWS Grants** - Received 10000 in AWS Could Credits for Research for exploring alternative bioinformatics research systems in the Amazon Cloud in 2016; received 30000 in AWS Could Credits for Research for exploring alternative bioinformatics research systems in the Amazon Cloud for as co-investigator in 2017; received 20000 in AWS Could Credits for Research for building metagenomic enrichment databases pipelines in 2019
+> Awarded 90000 in Oracle Cloud Credits for the build out of a scientific cloud application in 2021
+>
+> **AWS Grants** - 
+> Received 10000 in AWS Could Credits for Research for exploring alternative bioinformatics research systems in the Amazon Cloud in 2016
+> received 30000 in AWS Could Credits for Research for exploring alternative bioinformatics research systems in the Amazon Cloud for as co-investigator in 2017
+> received 20000 in AWS Could Credits for Research for building metagenomic enrichment databases pipelines in 2019
 >
 > Awarded "Rapid Exposure to Advanced Computational Training" (REACT) Program Grant, received $1500 in funding for attendance to Computational Short Course - Summer 2017
 >
