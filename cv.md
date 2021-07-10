@@ -21,6 +21,9 @@
 > 
 > ## EMPLOYMENT  
 >
+> - **Research Biologist at [Tropical Crop and Commodity Protection Research, Pacific Basin Agricultural Research Center, United States Department of Agriculture](https://www.ars.usda.gov/pacific-west-area/hilo-hi/daniel-k-inouye-us-pacific-basin-agricultural-research-center/tropical-crop-and-commodity-protection-research/)** 
+>   - Jun/2021 – 
+>
 > ### Phd. Student Positions at the University of Notre Dame – Notre Dame, IN
 > 
 > - **Graduate Scholar in [Navari Center for Digital Scholarship](https://cds.library.nd.edu/)** 
