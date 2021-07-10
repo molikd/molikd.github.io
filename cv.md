@@ -39,11 +39,11 @@
 >
 > ### Positions held prior to University of Notre Dame Phd. studentship
 >
-> **Scientific Informatics Developer, [Cold Spring Harbor Labratory](https://www.cshl.edu/research/cancer/bioinformatics/)** – Cold Spring Harbor,  NY  
-> Dec/2014 – Aug/2016  
+>  - **Scientific Informatics Developer, [Cold Spring Harbor Labratory](https://www.cshl.edu/research/cancer/bioinformatics/)** – Cold Spring Harbor,  NY  
+>    - Dec/2014 – Aug/2016  
 >  
-> **Software Engineer; Network Operations Center Manager, [Synacor](https://synacor.com/)** – Buffalo, NY  
-> July/2013 – Nov/2014  
+>  - **Software Engineer; Network Operations Center Manager, [Synacor](https://synacor.com/)** – Buffalo, NY  
+>    - July/2013 – Nov/2014  
 >
 > ### Positions held duing BS. studentship at Rensselaer Polytechnic Institute – Troy, NY
 >  
