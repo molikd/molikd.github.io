@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-[ [Research](/index.md) ][ **[Curriculum Vitae](/cv.md)** ][ [Github](https://github.com/molikd) ][ [Contact](/contact.md) ]
+[ [About Me](/index.md) ][ **[Curriculum Vitae](/cv.md)** ][ [Github](https://github.com/molikd) ][ [Contact](/contact.md) ]
 
 ---
 > # David C. Molik

@@ -6,17 +6,27 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>http://david.molik.co/</loc>
-  <lastmod>2018-04-08T9:15:00+00:00</lastmod>
+  <lastmod>2021-08-05T11:50:12+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>http://david.molik.co/cv.html</loc>
-  <lastmod>2017-09-18T12:43:15+00:00</lastmod>
+  <lastmod>2021-08-05T11:50:12+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 <url>
   <loc>http://david.molik.co/contact.html</loc>
-  <lastmod>2017-09-18T12:43:15+00:00</lastmod>
+  <lastmod>2021-08-05T11:50:12+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://david.molik.co/research.html</loc>
+  <lastmod>2021-08-05T11:50:12+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://david.molik.co/teaching.html</loc>
+  <lastmod>2021-08-05T11:50:12+00:00</lastmod>
   <changefreq>monthly</changefreq>
 </url>
 </urlset>
