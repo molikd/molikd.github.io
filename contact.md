@@ -6,23 +6,20 @@
 
 ![My hometown of Buffalo NY](assets/buffalo.png)<br>
 `My Hometown of Buffalo, NY` <br><br>
-David Molik <br>
-Integrated Biomedical Sciences Program PhD <br><br>
-Department of Biology <br>
-Galvin Building <br>
-University of Notre Dame <br>
-Notre Dame, IN 46556 <br><br>
-dmolik@nd.edu <br><br>
+David Molik PhD<br>
+Research Biologist<br><br>
+64 Nowelo St<br>
+Hilo, HI 96720<br><br>
+dmolik@nd.edu<br><br>
 [ResearchGate Profile](https://www.researchgate.net/profile/David_Molik)<br>
 [Google Scholar Profile](https://scholar.google.com/citations?user=BEl9n4MAAAAJ)<br>
 [ORCID](https://orcid.org/0000-0003-3192-6538)
 <br><br>
-[Pfrender Lab](https://www3.nd.edu/~mpfrende/index.html) - Biological Sciences ND<br>
-[Navari Family Center for Digital Scholarship](https://cds.library.nd.edu/) - Hesburgh Library<br><br>
+[Daniel K. Inouye U.S. Pacific Basin Agricultural Research Center](https://www.ars.usda.gov/pacific-west-area/hilo-hi/daniel-k-inouye-us-pacific-basin-agricultural-research-center/)<br><br>
 
 
 ![Taken at CSHL BSR 2014](assets/hipster.jpg)<br>
-`Me in the Binformatics Shared Resource at CSHL`
+`Me in the Binformatics Shared Resource at CSHL, 2014`
 
 
 <meta name="keywords" content="David Molik, Molik, Email, Contact Info, Contact"/>
