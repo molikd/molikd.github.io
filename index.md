@@ -22,7 +22,8 @@ I have also researched computational methods in general, mostly with ecological 
 <meta name="keywords" content="David Molik, Molik, Metagenetic, Metabarcoding"/>
 <meta name="description" content="David Molik's research interests: Expploring Metagenetic and Metabarcoding analysis"/>
 <meta name="subject" content="david.molik.co : A Personal Webpage">
-<style>body {background-color: #cee4ae; color: #4d4d4d;}
+<!-- <style>body {background-color: #cee4ae; color: #4d4d4d;} -->
+<style>
 img { border-width: 1px; border-color: #A9A9A9;}
 a:link { color: 	#264073; }
 a:visited { color: #264073; }

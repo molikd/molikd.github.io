@@ -14,7 +14,9 @@ University of Notre Dame <br>
 Notre Dame, IN 46556 <br><br>
 dmolik@nd.edu <br><br>
 [ResearchGate Profile](https://www.researchgate.net/profile/David_Molik)<br>
-[Google Scholar Profile](https://scholar.google.com/citations?user=BEl9n4MAAAAJ)<br><br>
+[Google Scholar Profile](https://scholar.google.com/citations?user=BEl9n4MAAAAJ)<br>
+[ORCID](https://orcid.org/0000-0003-3192-6538)
+<br><br>
 [Pfrender Lab](https://www3.nd.edu/~mpfrende/index.html) - Biological Sciences ND<br>
 [Navari Family Center for Digital Scholarship](https://cds.library.nd.edu/) - Hesburgh Library<br><br>
 
@@ -26,7 +28,7 @@ dmolik@nd.edu <br><br>
 <meta name="keywords" content="David Molik, Molik, Email, Contact Info, Contact"/>
 <meta name="description" content="David Molik's Contact Info"/>
 <meta name="subject" content="david.molik.co : A Personal Webpage">
-<style>body {background-color: #cee4ae; color: #4d4d4d;}
+<style>
 img { border-width: 1px; border-color: #A9A9A9;}
 a:link { color: 	#264073; }
 a:visited { color: #264073; }
