@@ -14,7 +14,7 @@ About me: I’m a Computational Biologist specializing in Arthropod Genomics cur
 I currently work on Genomic aligners and polishers for non-model systems. This includes creating new cutting-edge software that can overcome the unique hurdles that non-model systems present. 
 
 ![Env heatmap](assets/heatmap-1.png)<br>
-`environmental variables influencing sample to sample simularity`
+`environmental variables influencing microbiome sample to sample simularity`
 
 I’ve had and continue to have a passion for teaching bioinformatics, computational biology, and software engineering to anyone who’s be interested, I started with informally teaching git at Cold Spring Harbor Labs, which evolved into designing and teaching a course ( [BIOS 60132] Introduction to Computational Genomics ) at the University of Notre Dame as a PhD, as well as designing the Introductory bootcamp for Bioinformatics at Notre Dame, Bioinformatics Introductory Program Week (BIP Week). I continue to build on my teaching skills and look for new opportunities to teach. Along with my passion for teaching, I strive to mentor others who want to learn bioinformatics, starting at Cold Spring Harbor, I’ve mentored 7 or 8 undergraduate students across a wide spectrum of backgrounds, and trained an incoming employee at Cold Spring Harbor Lab. 
 
