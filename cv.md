@@ -44,7 +44,7 @@
 > - **Software Engineer; Network Operations Center Manager, [Synacor](https://synacor.com/)** – Buffalo, NY  
 >   - July/2013 – Nov/2014  
 >
-> ### Positions held duing BS. studentship at Rensselaer Polytechnic Institute – Troy, NY
+> ### Positions held during BS. studentship at Rensselaer Polytechnic Institute – Troy, NY
 >  
 > - **Undergraduate Researcher, [Tetherless World Constellation](https://tw.rpi.edu//)** 
 >   - Aug/2012 – Jan/2013
