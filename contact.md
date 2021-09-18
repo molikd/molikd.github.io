@@ -17,14 +17,14 @@ dmolik@nd.edu<br><br>
 [<img src="/assets/GitHub-Mark-32px.png" height="16" width="16"> Github](https://github.com/molikd)<br>
 [ResearchGate Profile](https://www.researchgate.net/profile/David_Molik)<br>
 [Google Scholar Profile](https://scholar.google.com/citations?user=BEl9n4MAAAAJ)<br>
+[Twitter Profile](https://twitter.com/SemperPublica?ref_src=twsrc%5Etfw)<br>
+[LinkedIn Profile](https://www.linkedin.com/in/dmolik/)
 <br><br>
 [Daniel K. Inouye U.S. Pacific Basin Agricultural Research Center](https://www.ars.usda.gov/pacific-west-area/hilo-hi/daniel-k-inouye-us-pacific-basin-agricultural-research-center/)<br><br>
 
 
 ![Taken at CSHL BSR 2014](assets/hipster.jpg)<br>
 `Me in the Binformatics Shared Resource at CSHL, 2014`
-
-<a class="twitter-timeline" href="https://twitter.com/SemperPublica?ref_src=twsrc%5Etfw">Tweets by SemperPublica</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <meta name="keywords" content="David Molik, Molik, Email, Contact Info, Contact"/>
 <meta name="description" content="David Molik's Contact Info"/>
