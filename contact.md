@@ -13,7 +13,7 @@ Research Biologist<br><br>
 Hilo, HI 96720<br><br>
 dmolik@nd.edu<br><br>
 
-<div style="display: inline;" itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-3192-6538" href="https://orcid.org/0000-0003-3192-6538" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"> ORCID</a></div>
+<div style="display: inline;" itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-3192-6538" href="https://orcid.org/0000-0003-3192-6538" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">ORCID</a></div>
 [<img src="/assets/GitHub-Mark-32px.png" height="16" width="16"> Github](https://github.com/molikd)<br>
 [ResearchGate Profile](https://www.researchgate.net/profile/David_Molik)<br>
 [Google Scholar Profile](https://scholar.google.com/citations?user=BEl9n4MAAAAJ)<br>
@@ -24,6 +24,7 @@ dmolik@nd.edu<br><br>
 ![Taken at CSHL BSR 2014](assets/hipster.jpg)<br>
 `Me in the Binformatics Shared Resource at CSHL, 2014`
 
+<a class="twitter-timeline" href="https://twitter.com/SemperPublica?ref_src=twsrc%5Etfw">Tweets by SemperPublica</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <meta name="keywords" content="David Molik, Molik, Email, Contact Info, Contact"/>
 <meta name="description" content="David Molik's Contact Info"/>
