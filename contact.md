@@ -13,12 +13,14 @@ Research Biologist<br><br>
 Hilo, HI 96720<br><br>
 dmolik@nd.edu<br><br>
 
+
+
 <div style="display: inline;" itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0003-3192-6538" href="https://orcid.org/0000-0003-3192-6538" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">ORCID</a></div>
 [<img src="/assets/GitHub-Mark-32px.png" height="16" width="16"> Github](https://github.com/molikd)<br>
-[ResearchGate Profile](https://www.researchgate.net/profile/David_Molik)<br>
+[<img src="/assets/researchgate_icon_130843.png" height="16" width="16"> ResearchGate Profile](https://www.researchgate.net/profile/David_Molik)<br>
 [Google Scholar Profile](https://scholar.google.com/citations?user=BEl9n4MAAAAJ)<br>
-[Twitter Profile](https://twitter.com/SemperPublica?ref_src=twsrc%5Etfw)<br>
-[LinkedIn Profile](https://www.linkedin.com/in/dmolik/)
+[<img src="/assets/2021 Twitter logo - blue.png " height="16" width="16">Twitter Profile](https://twitter.com/SemperPublica?ref_src=twsrc%5Etfw)<br>
+[<img src="/assets/LI-In-Bug.png" height="16" width="16">LinkedIn Profile](https://www.linkedin.com/in/dmolik/)
 <br><br>
 [Daniel K. Inouye U.S. Pacific Basin Agricultural Research Center](https://www.ars.usda.gov/pacific-west-area/hilo-hi/daniel-k-inouye-us-pacific-basin-agricultural-research-center/)<br><br>
 
