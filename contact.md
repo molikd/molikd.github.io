@@ -20,7 +20,7 @@ dmolik@nd.edu<br><br>
 [<img src="/assets/researchgate_icon_130843.png" height="16" width="16"> ResearchGate Profile](https://www.researchgate.net/profile/David_Molik)<br>
 [<img src="/assets/Google_Scholar_logo.svg.png" height="16" width="16"> Google Scholar Profile](https://scholar.google.com/citations?user=BEl9n4MAAAAJ)<br>
 [<img src="/assets/2021 Twitter logo - blue.png " height="16" width="16">Twitter Profile](https://twitter.com/SemperPublica?ref_src=twsrc%5Etfw)<br>
-[<img src="/assets/LI-In-Bug.png" height="16" width="16">LinkedIn Profile](https://www.linkedin.com/in/dmolik/)
+[<img src="/assets/174857.png" height="16" width="16">LinkedIn Profile](https://www.linkedin.com/in/dmolik/)
 <br><br>
 [Daniel K. Inouye U.S. Pacific Basin Agricultural Research Center](https://www.ars.usda.gov/pacific-west-area/hilo-hi/daniel-k-inouye-us-pacific-basin-agricultural-research-center/)<br><br>
 
