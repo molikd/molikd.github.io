@@ -1,6 +1,7 @@
 # Research
 
-[ [About Me](/index.md) ][ [Curriculum Vitae](/cv.md) ][ [Github](https://github.com/molikd) ][ [Contact](/contact.md) ][<div style="display: inline;" itemscope itemtype="https://schema.org/Person"> <a itemprop="sameAs" content="https://orcid.org/0000-0003-3192-6538" href="https://orcid.org/0000-0003-3192-6538" target="orcid.widget" rel="me noopener noreferrer"> <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">ORCID</a> </div>]
+[ [About Me](/index.md) ][ [Curriculum Vitae](/cv.md) ][ [Github](https://github.com/molikd) ][ [Contact](/contact.md) ][
+<div style="display: inline;" itemscope itemtype="https://schema.org/Person"> <a itemprop="sameAs" content="https://orcid.org/0000-0003-3192-6538" href="https://orcid.org/0000-0003-3192-6538" target="orcid.widget" rel="me noopener noreferrer"> <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">ORCID</a> </div>]
 
 ---
 <!-- 
