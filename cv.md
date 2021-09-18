@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-[ [About Me](/index.md) ][ **[Curriculum Vitae](/cv.md)** ][ [Github](https://github.com/molikd) ][ [Contact](/contact.md) ][ [![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png) ORCID](https://orcid.org/0000-0003-3192-6538) ]
+[ [About Me](/index.md) ][ **[Curriculum Vitae](/cv.md)** ][ [Contact](/contact.md) ][ [![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png) ORCID](https://orcid.org/0000-0003-3192-6538) ][ [Github](https://github.com/molikd) ]
 
 
 ---
