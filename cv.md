@@ -149,6 +149,9 @@
 >
 > Awarded University of Notre Dame Professional Development Zahm Research Travel Grant Fund for attendance to CSHL Biological Data Science 2020
 >
+> **Society Memberships**
+> Society of Systematic Biologists
+> Sigma Xi
 
 <meta name="keywords" content="David Molik, Molik, Curriculum Vitae, CV, Resume"/>
 <meta name="description" content="David Molik's CV, information on past employment"/>
