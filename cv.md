@@ -133,9 +133,9 @@
 > Awarded 90000 in Oracle Cloud Credits for the build out of a scientific cloud application in 2021
 >
 > **AWS Grants** - 
-> Received 10000 in AWS Could Credits for Research for exploring alternative bioinformatics research systems in the Amazon Cloud in 2016
-> Received 30000 in AWS Could Credits for Research for exploring alternative bioinformatics research systems in the Amazon Cloud for as co-investigator in 2017
-> Received 20000 in AWS Could Credits for Research for building metagenomic enrichment databases pipelines in 2019
+> - Received 10000 in AWS Could Credits for Research for exploring alternative bioinformatics research systems in the Amazon Cloud in 2016
+> - Received 30000 in AWS Could Credits for Research for exploring alternative bioinformatics research systems in the Amazon Cloud for as co-investigator in 2017
+> - Received 20000 in AWS Could Credits for Research for building metagenomic enrichment databases pipelines in 2019
 >
 > Awarded "Rapid Exposure to Advanced Computational Training" (REACT) Program Grant, received $1500 in funding for attendance to Computational Short Course - Summer 2017
 >
@@ -150,8 +150,8 @@
 > Awarded University of Notre Dame Professional Development Zahm Research Travel Grant Fund for attendance to CSHL Biological Data Science 2020
 >
 > **Society Memberships**
-> Society of Systematic Biologists
-> Sigma Xi
+> - Society of Systematic Biologists
+> - Sigma Xi
 
 <meta name="keywords" content="David Molik, Molik, Curriculum Vitae, CV, Resume"/>
 <meta name="description" content="David Molik's CV, information on past employment"/>
