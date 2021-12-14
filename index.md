@@ -1,6 +1,17 @@
 # About Me
 
-[ **[About Me](/index.md)** ][ [Curriculum Vitae](/cv.md) ][ [Contact](/contact.md) ][ [![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png) ORCID](https://orcid.org/0000-0003-3192-6538) ][ [<img src="/assets/GitHub-Mark-32px.png" height="16" width="16"> Github](https://github.com/molikd) ]
+<!-- [ **[About Me](/index.md)** ][ [Curriculum Vitae](/cv.md) ][ [Contact](/contact.md) ][ [![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png) ORCID](https://orcid.org/0000-0003-3192-6538) ][ [<img src="/assets/GitHub-Mark-32px.png" height="16" width="16"> Github](https://github.com/molikd) ] -->
+
+<table style="width:500px">
+  <tr>
+<td>[ <strong><a href="/">About Me</a></strong> ]</td>
+<td>[ <a href="/cv.html">Curriculum Vitae</a> ]</td>
+<td>[ <a href="/contact.html">Contact</a> ]</td>
+<td>[ <a href="https://orcid.org/0000-0003-3192-6538">
+<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID iD icon" /> ORCID</a> ]</td>
+<td>[ <a href="https://github.com/molikd"><img src="/assets/GitHub-Mark-32px.png" height="16" width="16" /> Github</a> ]</td>
+  </tr>
+<table>
 
 ---
 <!-- 
@@ -30,6 +41,7 @@ My focus, and what I enjoy most in my research, is the methodology. While I care
 <meta name="subject" content="david.molik.co : A Personal Webpage">
 <!-- <style>body {background-color: #cee4ae; color: #4d4d4d;} -->
 <style>
+table, th, td { border:0px solid black; }
 img { border-width: 1px; border-color: #A9A9A9;}
 a:link { color: 	#264073; }
 a:visited { color: #264073; }
