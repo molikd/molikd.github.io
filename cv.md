@@ -5,8 +5,8 @@
 
 <table style="width:500px">
   <tr>
-<td>[ <strong><a href="/">About Me</a></strong> ]</td>
-<td>[ <a href="/cv.html">Curriculum Vitae</a> ]</td>
+<td>[ <a href="/">About Me</a> ]</td>
+<td>[ <strong><a href="/cv.html">Curriculum Vitae</a></strong> ]</td>
 <td>[ <a href="/contact.html">Contact</a> ]</td>
 <td>[ <a href="https://orcid.org/0000-0003-3192-6538">
 <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" alt="ORCID iD icon" /> ORCID</a> ]</td>
