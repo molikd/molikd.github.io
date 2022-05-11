@@ -67,6 +67,8 @@
 >   - May/2010 – Aug/2010
 >  
 > ## ARTICLES
+>
+> David C. Molik. "𝚖𝚎𝚝 𝚟𝟷: expanding on old estimations of biodiversity from eDNA with a new database framework" Database, 2022. [doi:10.1093/database/baac032](https://doi.org/10.1093/database/baac032)
 > 
 > David C. Molik, DeAndre Tomlinson, Shane Davitt, Eric L. Morgan, Matt Sisk, Benjamin Roche, Natalie Meyers, Michael E. Pfrender. "Combining Natural Language Processing and Metabarcoding to Reveal Pathogen-Environment Associations" PLoS Negl Trop Dis, 2021. [doi:10.1371/journal.pntd.0008755](https://doi.org/10.1371/journal.pntd.0008755)
 >
