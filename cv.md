@@ -68,31 +68,55 @@
 >  
 > ## ARTICLES
 >
+> **[2022]**
+> 
 > David C. Molik. "𝚖𝚎𝚝 𝚟𝟷: expanding on old estimations of biodiversity from eDNA with a new database framework" Database, 2022. [doi:10.1093/database/baac032](https://doi.org/10.1093/database/baac032)
+>
+> **[2021]**
 > 
 > David C. Molik, DeAndre Tomlinson, Shane Davitt, Eric L. Morgan, Matt Sisk, Benjamin Roche, Natalie Meyers, Michael E. Pfrender. "Combining Natural Language Processing and Metabarcoding to Reveal Pathogen-Environment Associations" PLoS Negl Trop Dis, 2021. [doi:10.1371/journal.pntd.0008755](https://doi.org/10.1371/journal.pntd.0008755)
 >
 >  Ong Joseph Y., Julia T Pence, David C Molik, Holly V Goodson. "Yeast grown in continuous culture systems can detect mutagens with improved sensitivity relative to the Ames test" PLoS ONE, 2021. [doi:10.1371/journal.pone.0235303](https://doi.org/10.1371/journal.pone.0235303)
 >
+> **[2020]**
+>
 > Molik, David C., Michael Pfrender, Scott Emrich. “Uncovering Effects from the Structure of MetabarcodeSequences for Metagenetic and Microbiome Analysis” Methods and Protocols, 2020. [doi:10.3390/mps3010022](https://doi.org/10.3390/mps3010022)
+>
+> **[2019]**
 >
 > 李诣远 *(Yiyuan Li)*, David Molik, Michael Pfrender. 基于Nextflow构建的宏条形码自动化分析流程EPPS（基因组多样性专刊）*(EPPS, a metabarcoding bioinformatics pipeline using Nextflow)* . Biodiversity Science, 2019. [doi:10.17520/biods.2018211](http://www.biodiversity-science.net/CN/10.17520/biods.2018211).
 >
+> **[2018]**
+>
 > Ho, Yu-Jui, Naishitha Anaparthy, David Molik, Grinu Mathew, Toby Aicher, Ami Patel, James Hicks, and Molly Gale Hammell. "Single-cell RNA-seq analysis identifies markers of resistance to targeted BRAF inhibitors in melanoma cell populations." Genome research, 2018, 1353-1363. [doi:10.1101/gr.234062.117](https://doi.org/10.1101/gr.234062.117). 
+>
+> **[2016]**
 >
 > Cumming, Grant P., Edward Morris, Paul Simpson, Tara French, Eva Kahana, Joanne S. Luciano, and David Molik. "The future of post-reproductive health–The role of the Internet, the Web, information provision and access." Post Reproductive Health, 2016, 123-130. [doi:10.1177/2053369116647858](https://doi.org/10.1177/2053369116647858).
 >
-> ## Conference Papers
+> ## Conference Papers and Reports
+>
+> **[2022]**
+>
+>  Walker, Kimberly. Divya Kalra, Rebecca Lowdon, Guangyi Chen, David Molik, Daniela C. Soto, Fawaz Dabbaghie, et al. "The third international hackathon for applying insights into large-scale genomic composition to use cases in a wide range of organisms" F1000Research, 2022. [doi:10.12688/f1000research.110194.1](https://doi.org/10.12688/f1000research.110194.1)
+>
+> **[2018]**
 >
 > Molik, David C., Michael Pfrender, Scott Emrich. "Effects from structure of Metabarcode Sequences on Lossy Analysis of Microbiome Data" IEEE International Conference on Bioinformatics and Biomedicine, Data Analytics in Metagenomics, 2018. [doi:10.1109/BIBM.2018.8621143](https://doi.org/10.1109/BIBM.2018.8621143).
 >
 > **[short]** Tomlinson, DeAndre. David Molik, Michael Pfrender, Scott Emrich. "The Effects of Normalization, Transformation, and Rarefaction on Clustering of OTU Abundance" IEEE International Conference on Bioinformatics and Biomedicine, 2018. [10.1109/BIBM.2018.8621347](https://doi.org/10.1109/BIBM.2018.8621347).
 >
+> **[2012]**
+>
 > **[short]** Molik, David, and Michelle Sharer. “The Use of Recursive Bisection in the Mapping of Sample New York State Electoral Districts.” Proceedings of the 6th International Conference on Electronic Governance, 2012, 520–21. [doi:10.1145/2463728.2463844](https://doi.org/10.1145/2463728.2463844).
 >
 > ## Chapters and Whitepapers
 >
+> **[2020]**
+>
 > RDA COVID-19 Working Group. recommendations and guidelines. Research Data Alliance. 2020. [doi:10.15497/rda00046](https://doi.org/10.15497/rda00046).
+>
+> **[2017]**
 >
 > Cumming, Grant P., Tara French, Jamie Hogg, Douglas McKendrick, Heidi Gilstad, David Molik, and Joanne S. Luciano. "Trust and Provenance in Communication to eHealth Consumers." In The Digitization of Healthcare, pp. 189-203. Palgrave Macmillan, London, 2017. [doi:10.1057/978-1-349-95173-4_11](https://doi.org/10.1057/978-1-349-95173-4_11).
 >
@@ -101,19 +125,29 @@
 > ## ABSTRACTS - TALKS
 > *Only Talks and Posters in which I am the First or Last Author*
 >
+> **[2020]**
+>
 > **[poster]** Molik, David, DeAndre Tomlinson, Shane Davitt, Eric L. Morgan, Benjamin Roche, Natalie Meyers, Michael E. Pfrender. "Automated text categorization and metabarcoding reinforces Cryptococcus neoformans–woody decomposition association." Biological Data Science (Virtual). Cold Spring Harbor, 2020. [meetings.cshl.edu/meetings.aspx?meet=data&year=20](https://meetings.cshl.edu/meetings.aspx?meet=data&year=20)
+>
+> **[2019]**
 >
 > **[invited/talk]** Molik, David, Stephen Richards, Michael Pfrender. "Data mining for the prioritization of American insecta genomes." Entomology 2019. Entomological Society of America, 2019. [esa.confex.com/esa/2019/meetingapp.cgi/Paper/143297](https://esa.confex.com/esa/2019/meetingapp.cgi/Paper/143297).
 >
 > **[lightning talk/poster]** Molik, David. "𝗆𝖾𝗍—A web application tool and framework for the extensive comparison of metagenetic datasets." In Proceedings of Genome Informatics 2019. Cold Spring Harbor, 2019. [doi:10.7490/f1000research.1117645.1](https://doi.org/10.7490/f1000research.1117645.1).
 >
+> **[2017]**
+>
 > **[talk]** Molik, David, Michael Pfrender, Scott Emrich. “K-mer comparison methods in metagenomics, applications at the community level.” In Proceedings of Genome Informatics 2017. Cold Spring Harbor, 2017. [meetings.cshl.edu/abstracts.aspx?meet=INFO&year=17](https://meetings.cshl.edu/abstracts.aspx?meet=INFO&year=17). 
+>
+> **[2016]**
 >
 > **[poster]** Molik, David, Yu-Jui Ho, Ying Jin, and Molly Hammell. "Deployment of a Bioinformatics Analytics Platform in the Cloud." Proceedings of The Biological Data Science 2016 Cold Spring Harbor, 2016. [meetings.cshl.edu/abstracts.aspx?meet=DATA&year=16](https://meetings.cshl.edu/abstracts.aspx?meet=DATA&year=16).
 > 
 > **[talk]** Molik, David. “Implementing Best Practices in Bioinformatics, Issues of Data And Computational Tool Access That Will Affect Data Science in the Near Future.” In Data Analytics Across Disciplines: Academic Advancement And Business Competitiveness. National Professional Science Master’s Association, 2016. [www.dataanalyticsacrossdisciplines.org](http://www.dataanalyticsacrossdisciplines.org/).
 >
 >  **[poster]** Molik, David, Ying Jin, and Molly Hammell. “EDGY—Export of Data from Galaxy to Yabi, Automated Workflow Transfer to Command Line Tool” Proceedings of The Biology of Genomes, 2016. [meetings.cshl.edu/abstracts.aspx?meet=genome&year=16](https://meetings.cshl.edu/abstracts.aspx?meet=genome&year=16).
+>
+> **[2015]**
 >
 >  **[poster]** Molik, David, Ying Jin, and Molly Hammell. “Automated Transfer of Workflows from Galaxy to Yabi and Command Line Tools.” In Proceedings of Genome Informatics 2015, 151. Cold Spring Harbor, 2015. [meetings.cshl.edu/abstracts.aspx?meet=info&year=15](https://meetings.cshl.edu/abstracts.aspx?meet=info&year=15).
 > 
