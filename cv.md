@@ -69,7 +69,9 @@
 > ## ARTICLES
 >
 > **[2022]**
-> 
+>
+> **[forum]** David C. Molik. "An Outsider’s Perspective on Why We Climb Mountains and Why Projects Like the i5k Matter" Journal of Insect Science, 2022. [doi:10.1093/jisesa/ieac038](https://doi.org/10.1093/jisesa/ieac038)
+>
 > David C. Molik. "𝚖𝚎𝚝 𝚟𝟷: expanding on old estimations of biodiversity from eDNA with a new database framework" Database, 2022. [doi:10.1093/database/baac032](https://doi.org/10.1093/database/baac032)
 >
 > **[2021]**
