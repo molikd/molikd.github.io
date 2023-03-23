@@ -76,7 +76,7 @@
 >
 > **[2021]**
 > 
-> David C. Molik, DeAndre Tomlinson, Shane Davitt, Eric L. Morgan, Matt Sisk, Benjamin Roche, Natalie Meyers, Michael E. Pfrender. "Combining Natural Language Processing and Metabarcoding to Reveal Pathogen-Environment Associations" PLoS Negl Trop Dis, 2021. [doi:10.1371/journal.pntd.0008755](https://doi.org/10.1371/journal.pntd.0008755) [Kudos Website](https://link.growkudos.com/1ca143loef4)
+> David C. Molik, DeAndre Tomlinson, Shane Davitt, Eric L. Morgan, Matt Sisk, Benjamin Roche, Natalie Meyers, Michael E. Pfrender. "Combining Natural Language Processing and Metabarcoding to Reveal Pathogen-Environment Associations" PLoS Negl Trop Dis, 2021. [doi:10.1371/journal.pntd.0008755](https://doi.org/10.1371/journal.pntd.0008755), [Kudos Website](https://link.growkudos.com/1ca143loef4)
 >
 >  Ong Joseph Y., Julia T Pence, David C Molik, Holly V Goodson. "Yeast grown in continuous culture systems can detect mutagens with improved sensitivity relative to the Ames test" PLoS ONE, 2021. [doi:10.1371/journal.pone.0235303](https://doi.org/10.1371/journal.pone.0235303)
 >
