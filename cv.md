@@ -146,18 +146,23 @@
 > **[2024]**
 >
 > **[invited panel]** “Data Science and Analytics Seminar Series - 'Computational Genomics, Data Science and AI Panel’.” SUNY Buffalo State University Data Science and Analytics Seminar Spring 2024 Series. Buffalo, 2024. [dataanalytics.buffalostate.edu/dsa-seminar-series](https://dataanalytics.buffalostate.edu/dsa-seminar-series)
+>
 > **[talk]** Molik, David, Katheryn Buble, Leyla Cabugos, Jaqueline Campbell, Jenna Daenzer, Daniela Raciti, Leonore Reiser, Sook Jung, Adam Wright, Karen Yook. “FAIR Scientific Literature Is Not What You Think: How to Know Where Data Goes.” Plant and Animal Genomes 31, San Diego, 2024. [plan.core-apps.com/pag_2024/event/b44b10371958e4ecc7a77988eb6d15b7](https://plan.core-apps.com/pag_2024/event/b44b10371958e4ecc7a77988eb6d15b7)
+>
 > **[talk]** Molik, David, Joaquin Carbonara, Scott Geib, Marc Halfon, Olga S. Novikova, Jimmy Pitzer, Brian E. Scheffler, Phillip Shults, Tyler J. Simmonds, Caitlin Taylor. “Making Culicoides sonorensis a Blueprint for Pest Management Model Systems” Plant and Animal Genomes 31, San Diego, 2024. [plan.core-apps.com/pag_2024/abstract/0576097b-5f81-45e2-bce6-df69d943ca9c](https://plan.core-apps.com/pag_2024/abstract/0576097b-5f81-45e2-bce6-df69d943ca9c)
 >
 > **[2023]**
 >
 > **[poster]** Wright, Adam, David Molik. “Expanding FAIR-BioHeaders for Comprehensive Data Management.” Genome Informatics, Cold Spring Harbor, 2023. [meetings.cshl.edu/meetings.aspx?meet=info&year=23](https://meetings.cshl.edu/meetings.aspx?meet=info&year=23)
+>
 > **[poster]** Molik, David, Amanda Stahlke. “OTB (Only The Best genome assembly tools)—A phased genome assembly nextflow pipeline.” Genome Informatics. Cold Spring Harbor, 2023. [meetings.cshl.edu/meetings.aspx?meet=info&year=23](https://meetings.cshl.edu/meetings.aspx?meet=info&year=23)
+>
 > **[invited panel]** “AI Across Academia, Industry, Government, and Society” SUNY Buffalo State University Data Science and Analytics Seminar Fall 2023 Series. Buffalo, 2023. [dataanalytics.  buffalostate.edu/fall-2023-seminar-series](https://dataanalytics.buffalostate.edu/fall-2023-seminar-series)
 >
 > **[2022]**
 >
 > **[poster]** Molik, David. “OTB: (Only The Best Genome Assembly Tools) Overcoming Scientific IT Infrastructure Problems for the Creation, Storage, and Use of a Large Number of Phased Insect Genomes: A Case Study Using The Two-Lined Spittlebug” Arthropod Genomics Symposium. Notre Dame, 2022. [web.cvent.com/event/c19bd7ed-9ebc-47f4-9876-a524061871ed/summary](https://web.cvent.com/event/c19bd7ed-9ebc-47f4-9876-a524061871ed/summary)
+>
 > **[2020]**
 >
 > **[poster]** Molik, David, DeAndre Tomlinson, Shane Davitt, Eric L. Morgan, Benjamin Roche, Natalie Meyers, Michael E. Pfrender. "Automated text categorization and metabarcoding reinforces Cryptococcus neoformans–woody decomposition association." Biological Data Science (Virtual). Cold Spring Harbor, 2020. [meetings.cshl.edu/meetings.aspx?meet=data&year=20](https://meetings.cshl.edu/meetings.aspx?meet=data&year=20)
