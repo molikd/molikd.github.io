@@ -36,8 +36,10 @@
 >
 > ### United States Department of Agriculture
 >
-> - **Research Biologist at [Tropical Pest Genetics and Molecular Biology Research Unit](https://www.ars.usda.gov/people-locations/people-list-offices/?modeCode=20-40-05-15)** 
->   - Jun/2021 – 
+> - **[current] Computational Biologist at [Arhtropod-borne Animal Disease Research Unit](https://www.ars.usda.gov/plains-area/mhk/cgahr/abadru/)**
+    - Mar/2023 - 
+> - **Research Biologist/PostDoc at [Tropical Pest Genetics and Molecular Biology Research Unit](https://www.ars.usda.gov/people-locations/people-list-offices/?modeCode=20-40-05-15)** 
+>   - Jun/2021 – Mar/2023
 >
 > ### Phd. Student Positions at the University of Notre Dame – Notre Dame, IN
 > 
@@ -67,6 +69,20 @@
 >   - May/2010 – Aug/2010
 >  
 > ## ARTICLES
+>
+> **[2024]**
+>
+> **[Submitted]** **[editorial]** Cannon, E., D.C. Molik, A. Wright, H. Zhang, L. Honaas, K. Chougule, and S. Dyer. “Guidelines for Gene and Genome Assembly Nomenclature” 
+>
+> **[Submitted]** Drolet, B., L. Reister-Hendricks, C. Mayo, C. Rodgers, D. Molik, D. McVey “Increased virulence of Culicoides midge cell-derived blue-tongue virus in IFNAR mice”
+>
+> Wright, A., M. D. Wilkinson, C. Mungall, S. Cain, S. Richards, P. Sternberg, E. Provin, J. Jonathan, S. Geib, R. Daniela, K. Yook, L. Stein, D. Molik. "FAIR Header Reference genome: A TRUSTworthy standard." Briefings in Bioinformatics, 2024. [doi:10.1093/bib/bbae122](https://doi.org/10.1093/bib/bbae122)
+>
+> **[In Press]** Molik, David, Amanda R. Stahlke, Sharu P. Sharma, Tyler J. Simmonds, Renee L. Corpuz, Angela N. Kauwe, Jeremy E. Schrader, Charles J. Mason, Sheina B. Sim, and Scott M. Geib. "otb: Creating a HiC/HiFi Pipeline to Assemble the Prosapia bicincta Genome."  G3: Genes, Genomes, Genetics, 2024. [doi:10.1093/g3journal/jkae129](https://doi.org/10.1093/g3journal/jkae129)
+>
+> **[2023]**
+>
+> Scroggs SLP, Bird EJ, Molik DC, Nayduch D. “Vesicular Stomatitis Virus Elicits Early Transcriptome Response in Culicoides sonorensis Cells” Viruses. 2023, [doi:10.3390/v15102108](https://doi.org/10.3390/v15102108)
 >
 > **[2022]**
 >
@@ -127,6 +143,21 @@
 > ## ABSTRACTS - TALKS
 > *Only Talks and Posters in which I am the First or Last Author*
 >
+> **[2024]**
+>
+> **[invited panel]** “Data Science and Analytics Seminar Series - 'Computational Genomics, Data Science and AI Panel’.” SUNY Buffalo State University Data Science and Analytics Seminar Spring 2024 Series. Buffalo, 2024. [dataanalytics.buffalostate.edu/dsa-seminar-series](https://dataanalytics.buffalostate.edu/dsa-seminar-series)
+> **[talk]** Molik, David, Katheryn Buble, Leyla Cabugos, Jaqueline Campbell, Jenna Daenzer, Daniela Raciti, Leonore Reiser, Sook Jung, Adam Wright, Karen Yook. “FAIR Scientific Literature Is Not What You Think: How to Know Where Data Goes.” Plant and Animal Genomes 31, San Diego, 2024. [plan.core-apps.com/pag_2024/event/b44b10371958e4ecc7a77988eb6d15b7](https://plan.core-apps.com/pag_2024/event/b44b10371958e4ecc7a77988eb6d15b7)
+> **[talk]** Molik, David, Joaquin Carbonara, Scott Geib, Marc Halfon, Olga S. Novikova, Jimmy Pitzer, Brian E. Scheffler, Phillip Shults, Tyler J. Simmonds, Caitlin Taylor. “Making Culicoides sonorensis a Blueprint for Pest Management Model Systems” Plant and Animal Genomes 31, San Diego, 2024. [plan.core-apps.com/pag_2024/abstract/0576097b-5f81-45e2-bce6-df69d943ca9c](https://plan.core-apps.com/pag_2024/abstract/0576097b-5f81-45e2-bce6-df69d943ca9c)
+>
+> **[2023]**
+>
+> **[poster]** Wright, Adam, David Molik. “Expanding FAIR-BioHeaders for Comprehensive Data Management.” Genome Informatics, Cold Spring Harbor, 2023. [meetings.cshl.edu/meetings.aspx?meet=info&year=23](https://meetings.cshl.edu/meetings.aspx?meet=info&year=23)
+> **[poster]** Molik, David, Amanda Stahlke. “OTB (Only The Best genome assembly tools)—A phased genome assembly nextflow pipeline.” Genome Informatics. Cold Spring Harbor, 2023. [meetings.cshl.edu/meetings.aspx?meet=info&year=23](https://meetings.cshl.edu/meetings.aspx?meet=info&year=23)
+> **[invited panel]** “AI Across Academia, Industry, Government, and Society” SUNY Buffalo State University Data Science and Analytics Seminar Fall 2023 Series. Buffalo, 2023. [dataanalytics.  buffalostate.edu/fall-2023-seminar-series](https://dataanalytics.buffalostate.edu/fall-2023-seminar-series)
+>
+> **[2022]**
+>
+> **[poster]** Molik, David. “OTB: (Only The Best Genome Assembly Tools) Overcoming Scientific IT Infrastructure Problems for the Creation, Storage, and Use of a Large Number of Phased Insect Genomes: A Case Study Using The Two-Lined Spittlebug” Arthropod Genomics Symposium. Notre Dame, 2022. [web.cvent.com/event/c19bd7ed-9ebc-47f4-9876-a524061871ed/summary](https://web.cvent.com/event/c19bd7ed-9ebc-47f4-9876-a524061871ed/summary)
 > **[2020]**
 >
 > **[poster]** Molik, David, DeAndre Tomlinson, Shane Davitt, Eric L. Morgan, Benjamin Roche, Natalie Meyers, Michael E. Pfrender. "Automated text categorization and metabarcoding reinforces Cryptococcus neoformans–woody decomposition association." Biological Data Science (Virtual). Cold Spring Harbor, 2020. [meetings.cshl.edu/meetings.aspx?meet=data&year=20](https://meetings.cshl.edu/meetings.aspx?meet=data&year=20)
@@ -158,14 +189,16 @@
 >
 > ## TEACHING
 >
-> Designed and Taught University of Notre Dame's first Computational Genomics course, "[BIOS 60132 - Introduction to Computational Genomics](http://david.molik.co/ND_ICG_2020/)" a graduate level, three credit course teaching commonly used algoithms in Computational Genomcs in Fall of 2020 
+> Certified carpentries.org instructor, taught bioinformatics carpentries lessons for USDA ARS, three workshops in 2023, one workshop in 2024
 >
-> Organized and Partially taught "Bioinformatics Introductory Program (BIP) Week 2020" a introductory bioinformatics program for incoming Life Sciences graduate students at the University of Notre Dame. Based on carpentries.org curriculum, the workshop spanned four days and had over 20 volunteers in Summer 2020, for [Center for Digital Scholarship](https://cds.library.nd.edu/).
+> Designed and Taught University of Notre Dame’s first Computational Genomics course, “BIOS 60132 - Introduction to Computational Genomics” a graduate level, three credit course teaching commonly used algorithms in Computational Genomics in Fall of 2020
+>
+> Organized and led in teaching “Bioinformatics Introductory Program (BIP) Week 2020” a introductory bioinformatics program for incoming Life Sciences graduate students at the University of Notre Dame. Based on carpentries.org curriculum, the workshop spanned four days and had over 20 volunteers in Summer 2020, for Center for Digital Scholarship. Taught as a Lecturer in BIP Week 2021. 
+>
+> Taught Data Carpentries Genomics curriculum as a series of workshops over the course of Spring 2020, for Center for Digtial Scholarship. First in-person, and then online in Spring 2020, for Center for Digital Scholarship.
 >
 > Taught Data Carpentries Genomics curriculm as a series of workshops over the course of Spring 2020, for Center for Digtial Scholarship. First in-person, and then online in Spring 2020, for [Center for Digital Scholarship](https://cds.library.nd.edu/).
 >
-> Lab Teaching assistant for "BIOS 30420/60562 - Aquatic Insects" in Fall 2019, for [Ronald Hellenthal](https://biodiversity.nd.edu/contact/).
-> 
 > Lecture Teaching assistant for "BIOS 10172 - Biology II: Molecules to Ecosystems" in Spring of 2019, for [Joesph O'Tousa](https://www3.nd.edu/~jotousa/labwww/).
 >
 > Lab Teaching assistant for "BIOS 31312 - General Ecology Laboratory" in Fall 2018, for [Dominic Chaloner](https://biology.nd.edu/people/dominic-chaloner/).
@@ -179,6 +212,8 @@
 > Eagle Scout, Achieved the Rank of Eagle in the Boy Scouts of America
 >
 > ## Funding
+>
+> $150000, Co-PI, DoD Global Emering Infections Surveillance Grant. “Using house flies as xenosurveillance tools to monitor existing, emerging and cryptic microbial threats to US military”
 >
 > Awarded 90000 in Oracle Cloud Credits for the build out of a scientific cloud application in 2021
 >
