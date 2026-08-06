@@ -1,0 +1,16 @@
+{
+  "name": "David C. Molik",
+  "short_name": "David Molik",
+  "description": "Research infrastructure for open, reproducible, and AI-ready science.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f4ed",
+  "theme_color": "#512888",
+  "icons": [
+    {
+      "src": "/assets/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
