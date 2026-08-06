@@ -55,7 +55,12 @@ body::before {
   content: "";
 }
 
-img,
+img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
 svg {
   display: block;
   max-width: 100%;
@@ -401,10 +406,12 @@ h3 {
 }
 
 .hero-portrait img {
+  aspect-ratio: 1;
   width: min(100%, 32rem);
   border: 1px solid rgba(81, 40, 136, 0.16);
   border-radius: 46% 54% 48% 52% / 54% 44% 56% 46%;
   box-shadow: var(--shadow);
+  object-fit: cover;
 }
 
 .portrait-note {
@@ -892,6 +899,13 @@ h3 {
   border-bottom: 3px solid var(--purple);
   padding-bottom: 0.7rem;
   font-size: 2rem;
+}
+
+.cv-subheading {
+  margin: 2rem 0 0.75rem;
+  color: var(--purple);
+  font-size: 1.25rem;
+  letter-spacing: 0.02em;
 }
 
 .cv-list {
