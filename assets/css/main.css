@@ -55,7 +55,12 @@ body::before {
   content: "";
 }
 
-img,
+img {
+  display: block;
+  height: auto;
+  max-width: 100%;
+}
+
 svg {
   display: block;
   max-width: 100%;
@@ -401,10 +406,12 @@ h3 {
 }
 
 .hero-portrait img {
+  aspect-ratio: 1;
   width: min(100%, 32rem);
   border: 1px solid rgba(81, 40, 136, 0.16);
   border-radius: 46% 54% 48% 52% / 54% 44% 56% 46%;
   box-shadow: var(--shadow);
+  object-fit: cover;
 }
 
 .portrait-note {
@@ -607,6 +614,66 @@ h3 {
   color: var(--purple-dark);
   font-size: 0.88rem;
   font-weight: 600;
+}
+
+.journey-section {
+  border-bottom: 1px solid rgba(81, 40, 136, 0.1);
+  background: var(--tan);
+}
+
+.journey {
+  display: grid;
+  grid-template-columns: minmax(0, 1.1fr) minmax(280px, 0.72fr);
+  align-items: center;
+  gap: clamp(3rem, 7vw, 6rem);
+}
+
+.journey-collage {
+  position: relative;
+  margin: 0;
+  padding-bottom: clamp(3.8rem, 8vw, 5.7rem);
+}
+
+.journey-collage__landscape {
+  width: 100%;
+  border: 1px solid rgba(81, 40, 136, 0.15);
+  border-radius: var(--radius-large);
+  box-shadow: var(--shadow);
+}
+
+.journey-collage__portrait {
+  position: absolute;
+  bottom: 0;
+  width: clamp(7rem, 25%, 10rem);
+  aspect-ratio: 1;
+  border: 0.45rem solid var(--tan-light);
+  border-radius: 1.25rem;
+  box-shadow: var(--shadow-small);
+  object-fit: cover;
+}
+
+.journey-collage__portrait--outdoors {
+  left: 8%;
+  transform: rotate(-3deg);
+}
+
+.journey-collage__portrait--tie {
+  left: 31%;
+  transform: translateY(0.6rem) rotate(3deg);
+}
+
+.journey-collage figcaption {
+  position: absolute;
+  top: 0.85rem;
+  right: 0.85rem;
+  border: 1px solid rgba(81, 40, 136, 0.14);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 0.45rem 0.7rem;
+  color: var(--purple-dark);
+  font-size: 0.8rem;
+  font-weight: 700;
+  line-height: 1.2;
 }
 
 .split {
@@ -894,6 +961,13 @@ h3 {
   font-size: 2rem;
 }
 
+.cv-subheading {
+  margin: 2rem 0 0.75rem;
+  color: var(--purple);
+  font-size: 1.25rem;
+  letter-spacing: 0.02em;
+}
+
 .cv-list {
   margin: 0;
   padding-left: 1.25rem;
@@ -1020,6 +1094,7 @@ h3 {
   }
 
   .hero__grid,
+  .journey,
   .split,
   .page-hero--split .shell {
     grid-template-columns: 1fr;
@@ -1062,6 +1137,14 @@ h3 {
     bottom: auto;
     max-width: none;
     margin-top: -1rem;
+  }
+
+  .journey-collage__portrait {
+    width: 29%;
+  }
+
+  .journey-collage__portrait--tie {
+    left: 35%;
   }
 
   .grid--2,
