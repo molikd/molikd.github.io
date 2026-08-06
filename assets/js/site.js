@@ -3,15 +3,17 @@
   const navigation = document.querySelector("[data-navigation]");
 
   if (menuButton && navigation) {
-    const closeMenu = () => {
-      menuButton.setAttribute("aria-expanded", "false");
-      navigation.classList.remove("is-open");
+    const setMenuState = (isOpen) => {
+      menuButton.setAttribute("aria-expanded", String(isOpen));
+      menuButton.setAttribute("aria-label", isOpen ? "Close navigation" : "Open navigation");
+      navigation.classList.toggle("is-open", isOpen);
     };
+
+    const closeMenu = () => setMenuState(false);
 
     menuButton.addEventListener("click", () => {
       const isOpen = menuButton.getAttribute("aria-expanded") === "true";
-      menuButton.setAttribute("aria-expanded", String(!isOpen));
-      navigation.classList.toggle("is-open", !isOpen);
+      setMenuState(!isOpen);
     });
 
     navigation.addEventListener("click", (event) => {
@@ -19,9 +21,19 @@
     });
 
     document.addEventListener("keydown", (event) => {
-      if (event.key === "Escape") {
+      if (event.key === "Escape" && menuButton.getAttribute("aria-expanded") === "true") {
         closeMenu();
         menuButton.focus();
+      }
+    });
+
+    document.addEventListener("click", (event) => {
+      if (
+        menuButton.getAttribute("aria-expanded") === "true" &&
+        !menuButton.contains(event.target) &&
+        !navigation.contains(event.target)
+      ) {
+        closeMenu();
       }
     });
 
