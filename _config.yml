@@ -1,6 +1,15 @@
-title: david.molik.co
-description: a personal webpage. 
-theme: jekyll-theme-minimal
-logo: /assets/download_20180219_162345.jpeg
-show_downloads: false
-google_analytics: UA-92994267-2
+title: David C. Molik
+description: Research infrastructure for open, reproducible, and AI-ready science.
+url: https://david.molik.co
+baseurl: ""
+lang: en-US
+timezone: America/Chicago
+
+# The site is intentionally plain HTML/CSS so GitHub Pages can publish it
+# without a theme dependency or a local build step.
+include:
+  - .well-known
+
+exclude:
+  - README.md
+  - LICENSE
